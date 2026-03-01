@@ -1,0 +1,1430 @@
+date,id,callout_id,product,language,scenario,content
+2026-02-11,600000987849748,-7160349369495170942,A,hk,改签,"2026-02-11 13:40:43 CUSTOMER:'如果需要兩個地點呢'
+2026-02-11 13:40:46 ROBOT:'很抱歉給您帶來不便，目前我們不支持設置或添加多個下車地點。感謝您的理解。您可以在該頁面上進行預訂 機場接送 頁面。'
+2026-02-11 13:41:45 CUSTOMER:'接送期間可否停靠或更改路線？'
+2026-02-11 13:41:46 ROBOT:'機場接送是一項點對點服務。在服務時間內，我們無法更改行程、停車或接載乘客。您可以嘗試聯繫司機，確認是否可以協助您進行修改。
+'"
+2026-02-11,800000985176885,-7160349369495170942,A,hk,改签,"2026-02-11 02:39:26 CUSTOMER:'訂單編號:1616328047314006,上海虹橋國際機場 (sha) 接機,2026 年 3 月 15 日'
+2026-02-11 02:39:27 ROBOT:'您好！關於此訂單有甚麼需要查詢？'
+2026-02-11 02:39:27 ROBOT:'服務進度'
+2026-02-11 02:39:53 CUSTOMER:'我想要變成來回接機 '
+2026-02-11 02:39:57 ROBOT:'若您需要對您的行程進行任何更改，請隨時點擊下方按鈕。修改訂單
+提示:如果您還有其他問題，請點擊下方按鈕聯繫供應商。希望這對您有所幫助！ 
+聯繫供應商
+
+'
+2026-02-11 02:40:39 CUSTOMER:'我要訂來回同一台車可以嗎？'
+2026-02-11 02:40:43 ROBOT:'您預訂的最新免費修改時間為 2026-03-15 11:30:00 (當地時間)。請訪問 修改接送時間 在截止日期前修改您的預訂的頁面。
+如果您需要更改日期，您可以點擊 此處 調整您的行程。請注意，重新選擇行程可能會導致價格變動。如果沒有符合您需求的選項，我們建議取消您當前的預訂並下新訂單。
+提示:如果您還有其他問題，請點擊下方按鈕聯繫供應商。希望這對您有所幫助！
+聯繫供應商
+
+
+'"
+2026-02-11,500000987607837,-7985650926323601177,C,en,改签,"2026-02-11 20:07:51 CUSTOMER:'i want to change the pick up and return time due to a flight change'
+2026-02-11 20:07:54 ROBOT:'Your booking 1653711097131181 has been confirmed. If you need to make changes, please refer to the booking details page to view the policies.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-08-29 10:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'"
+2026-02-11,700000986210948,2862217204651706952,C,kr,改签,"2026-02-11 05:55:05 CUSTOMER:'항공편 지연으로 인수시간을 1시긴 늦춰주세요'
+2026-02-11 05:55:12 ROBOT:'Your booking 1400823102216554 has been confirmed. If you need to make changes, please refer to the booking details page to view the policies.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-02-10 16:30:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'"
+2026-02-11,400000985672059,2862217204651706952,C,kr,改签,"2026-02-11 14:15:37 CUSTOMER:'주운전자(예약자) 변경'
+2026-02-11 14:15:45 ROBOT:'아래 버튼을 눌러 예약 변경을 시도하실 수 있습니다. 새로운 예약에 대한 결제가 완료되면 기존 예약은 자동으로 취소됩니다. 
+예약 변경하기
+
+팁:
+지점 및 차량 종류를 검색·확인하신 후, 운전자 정보를 다시 입력하시고 새로운 예약을 진행해 주시기 바랍니다. 새로운 예약의 요금은 페이지에 표시된 정보에 따라 적용됩니다. 자세한 정책은 예약 상세 페이지에서 확인해 주세요.
+인수 및 반납 시간은 지점 영업시간 내에 이루어져야 합니다.'"
+2026-02-11,200000989166379,-7985650926323601177,C,en,改签,"2026-02-11 13:38:46 CUSTOMER:'i need to contact the car rental company to inform them that i need winter tires. '
+2026-02-11 13:38:50 ROBOT:'Your booking 1658108842527898 has been confirmed.  If you need to make changes,you can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-02-15 18:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'
+2026-02-11 13:39:07 CUSTOMER:'need to speak to an agent'
+2026-02-11 13:39:07 ROBOT:'We apologize for the inconvenience. We appreciate your patience and assure you that we are working hard to process all requests as quickly as possible. In the meantime, you may find helpful information by checking out our frequently asked questions or submitting your own question for further assistance.'
+2026-02-11 13:39:15 CUSTOMER:'transfer to an agent'
+2026-02-11 13:39:16 AGENT:'welcome to trip.com. my name is felix c, i am glad to be of your assistance today.'
+2026-02-11 13:39:26 CUSTOMER:'Hi'
+2026-02-11 13:39:35 AGENT:'hello, glad to assist you today.'
+2026-02-11 13:39:45 AGENT:'please confirm the booking you want to ask about. to view details, please ensure you are using the latest version of the trip.com app.'
+2026-02-11 13:39:50 CUSTOMER:'current consulting order'
+2026-02-11 13:39:55 CUSTOMER:'This is regarding the car rental booking'
+2026-02-11 13:40:02 AGENT:'Noted'
+2026-02-11 13:40:04 CUSTOMER:'I need to contact the car rental company to inform them that i need winter tires on my car. '
+2026-02-11 13:40:18 AGENT:'We will contact with the branch for you'
+2026-02-11 13:40:26 CUSTOMER:'I contacted trip.com yesterday, they gave me a number, but i tried calling and couldnt reach them'
+2026-02-11 13:40:42 AGENT:'And may I kindly ask when we know the fee for snow tires, do we need to inform you for the price?'
+2026-02-11 13:41:23 CUSTOMER:'Last week trip.com assisted me to ask the car rental company, i received an email from trip.com and informed that the snow tires are free'
+2026-02-11 13:41:34 CUSTOMER:'But i need to let them know in advance if i needed snow tires'
+2026-02-11 13:41:51 AGENT:'Noted'
+2026-02-11 13:42:00 AGENT:'We will help you inform the branch for you need that'
+2026-02-11 13:42:05 CUSTOMER:'My trip is next Tuesday, that’s why i needed to reach out to them and let them know . Thanks '
+2026-02-11 13:42:17 CUSTOMER:'Thanks for assisting. '
+2026-02-11 13:42:22 AGENT:'noted, we will prioritize your concerns and make every effort to assist you. i will forward your request to our relevant team, who will further verify it.'
+2026-02-11 13:42:24 AGENT:'we will proactively contact you once there is an update. meanwhile, we appreciate your patience. is it possible for us to contact you via email or phone call?'
+2026-02-11 13:42:50 CUSTOMER:'Yes, you can contact me through email. '
+2026-02-11 13:43:04 AGENT:'Noted we will get back to you within 24 hours'
+2026-02-11 13:43:07 AGENT:'Please kindly wait for that'
+2026-02-11 13:43:19 CUSTOMER:'Ok. Thanks '
+2026-02-11 13:43:22 AGENT:'may i kindly ask is there anything else that i can assist you with now?'
+2026-02-11 13:44:13 CUSTOMER:'Can you also remind them that our arrival time at Almaty airport is 5.40pm. And i know their closing time is 6pm. '
+2026-02-11 13:44:40 AGENT:'Let me have a look'
+2026-02-11 13:44:46 CUSTOMER:'I have already put my flight numbers in the booking  already. '
+2026-02-11 13:44:59 AGENT:'Yes I found that D7600'
+2026-02-11 13:45:11 AGENT:'But we did not know for there off duty time'
+2026-02-11 13:47:02 CUSTOMER:'When i book, there are 2 type of bookings to choose from, one booking is the car rental company closes at 6pm, the other one is car rental company opens 24hrs (but this option is slightly more expensive). '
+2026-02-11 13:47:35 AGENT:'Noted'
+2026-02-11 13:47:46 CUSTOMER:'So i choose the more expensive one where it says open 24hrs, because i knew by the time i come out of airport, it will be 6+pm. '
+2026-02-11 13:48:07 AGENT:'Noted'
+2026-02-11 13:48:12 CUSTOMER:'So i just want to remind them again that i may be slightly late, all depending on the flight. '
+2026-02-11 13:48:26 AGENT:'Noted we will help you check on that'
+2026-02-11 13:48:28 CUSTOMER:'So pls help me ask for 2 things from them. '
+2026-02-11 13:48:41 CUSTOMER:'1. Change to Winter tires'
+2026-02-11 13:49:02 CUSTOMER:'2. Remind them i may be slightly late (6+pm) subject to flight. '
+2026-02-11 13:49:03 AGENT:'Yes noted'
+2026-02-11 13:49:27 AGENT:'I will try to call for you first'
+2026-02-11 13:49:33 AGENT:'Please wait for me 3-5 minutes'
+2026-02-11 13:50:33 CUSTOMER:'And also can you help me get a working phone number from them. In case i need to call someone from the car rental company ,in case if i don’t see them at the airport.'
+2026-02-11 13:50:52 AGENT:'I am calling for this number +77014090338'
+2026-02-11 13:54:00 AGENT:'This number can be get to them, I just called for you'
+2026-02-11 13:54:31 CUSTOMER:'Ok. I will keep this number'
+2026-02-11 13:54:42 AGENT:'Since that they could hardly speak English I will email to ask for this'
+2026-02-11 13:55:12 CUSTOMER:'Ok. Thanks. '
+2026-02-11 13:55:37 AGENT:'My pleasure and we will get back to you wihtin 24 hours'
+2026-02-11 13:55:40 AGENT:'*within'
+2026-02-11 13:55:44 AGENT:'we will proactively contact you once there is an update. meanwhile, we appreciate your patience. is it possible for us to contact you via email or phone call?'
+2026-02-11 13:55:53 CUSTOMER:'So you will email winter tires as well?'
+2026-02-11 13:56:28 AGENT:'For that question, I just called and the branch told me that all their car have snow tires and do not worry'
+2026-02-11 13:56:52 CUSTOMER:'Ok, noted. Thanks '
+2026-02-11 13:57:04 AGENT:'My pleasure'
+2026-02-11 13:57:07 AGENT:'may i kindly ask is there anything else that i can assist you with now?'
+2026-02-11 13:57:21 CUSTOMER:'That’s all for now. Thank you'
+2026-02-11 13:57:31 AGENT:'noted thanks!'
+2026-02-11 13:57:33 AGENT:'it was nice to talk to you. have a great day! if you need help in the future, i'm here for you. take care!'
+2026-02-11 13:57:35 AGENT:'bye for now.'"
+2026-02-11,200000989973521,-7160349369495170942,A,hk,改签,"2026-02-11 22:20:02 CUSTOMER:'更改接送機服務時間'
+2026-02-11 22:20:04 ROBOT:'根據您的 送車預訂 訂單政策，接送時間無法修改。
+但您可以嘗試取消預訂並重新預訂，請點擊 政策 有關詳細資訊。可在之前免費取消 2026-02-20 00:00:00 (當地時間)。在此時間之後取消將導致需支付預訂金額的100%。
+Tips:If you still have any other questions, please click the button below to contact the supplier.I hope this helps!
+聯繫供應商
+'
+2026-02-11 22:20:09 CUSTOMER:'司機的免費等候時間範圍'
+2026-02-11 22:20:11 ROBOT:'經查詢，本次預訂中，司機將等候您 30 分鐘 免費。有關免費等待時間的更多信息，請親切訪問 預訂詳情 頁面。
+提示:司機將根據實際航班到達時間開始計算免費等待時間。如果您仍有其他問題，請點擊下方按鈕聯繫供應商。希望這對您有所幫助！ 
+聯繫供應商
+
+
+'"
+2026-02-11,500000987424745,-7985650926323601177,C,en,改签,"2026-02-11 17:56:41 CUSTOMER:'hi there!'
+2026-02-11 17:56:44 ROBOT:'Hi there. Anything I can assist with?'
+2026-02-11 17:57:16 CUSTOMER:'i need to contact nissan car rental to inform them that i might need snow tyres '
+2026-02-11 17:57:19 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+You can also apply for free cancellation of your current order before2026-03-08 07:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'"
+2026-02-11,700000986373327,2862217204651706952,C,kr,改签,"2026-02-11 09:27:39 CUSTOMER:'렌트카 인수시간과 반납시간을 오전 8:30분으로 변경하고 싶어요.'
+2026-02-11 09:27:55 ROBOT:'아래 버튼을 눌러 예약 변경을 시도하실 수 있습니다. 새로운 예약에 대한 결제가 완료되면 기존 예약은 자동으로 취소됩니다. 
+예약 변경하기
+
+팁:
+지점 및 차량 종류를 검색·확인하신 후, 운전자 정보를 다시 입력하시고 새로운 예약을 진행해 주시기 바랍니다. 새로운 예약의 요금은 페이지에 표시된 정보에 따라 적용됩니다. 자세한 정책은 예약 상세 페이지에서 확인해 주세요.
+인수 및 반납 시간은 지점 영업시간 내에 이루어져야 합니다.'"
+2026-02-11,100000987366191,-7985650926323601177,C,en,改签,"2026-02-11 08:33:36 CUSTOMER:'i want to delay the vehicle drop-off time.'
+2026-02-11 08:33:36 ROBOT:'Please select the booking you want to ask about:'
+2026-02-11 08:33:41 CUSTOMER:'booking no.:1578944306463284,fukuoka,mar 10, 2026'
+2026-02-11 08:33:42 ROBOT:'Your booking 1578944306463284 has been confirmed.  If you need to make changes,you can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-03-03 11:30:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'"
+2026-02-11,700000987462835,-7985650926323601177,C,en,改签,"2026-02-11 20:53:43 CUSTOMER:'hello. my flight schedule has been changed. how can i update my booking accordingly? thank you'
+2026-02-11 20:53:47 ROBOT:'Your booking 1227099035605962 has been confirmed. If you need to make changes, please refer to the booking details page to view the policies.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-07-03 10:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'"
+2026-02-11,800000985361944,-7985650926323601177,C,en,改签,"2026-02-11 09:07:52 CUSTOMER:'email'
+2026-02-11 09:07:53 ROBOT:'To resolve the issue of modifying your booking, please enter your 11-digit or 16-digit booking number to check the corresponding reservation. Generally, once a booking is confirmed, it cannot be modified. We recommend that you either cancel the booking or negotiate with the store.'
+2026-02-11 09:08:18 CUSTOMER:'the service provided by trip.com chatbot was terrible'
+2026-02-11 09:08:18 ROBOT:'We are sorry that we haven't been able to resolve your problem satisfactorily, please tap the button below to contact our agent for assistance. '
+2026-02-11 09:08:24 CUSTOMER:'transfer to an agent'
+2026-02-11 09:08:25 AGENT:'welcome to trip.com. my name is niki j, i am glad to be of your assistance today.'
+2026-02-11 09:09:07 CUSTOMER:'Hi I have returned my car but there were some issues with the scratches so I had to pay agent 100k yen '
+2026-02-11 09:09:20 CUSTOMER:'They said they will check the damages '
+2026-02-11 09:09:20 AGENT:'Can I please have your booking number?'
+2026-02-11 09:09:46 CUSTOMER:'1578944198240844'
+2026-02-11 09:09:59 AGENT:'please allow me to look at your reservation. give me 2 to 3 minutes, please stay on the line. thanks'
+2026-02-11 09:10:09 CUSTOMER:'👌'
+2026-02-11 09:10:48 AGENT:'for the security of your booking, could you please provide the email address, phone number, usage date, and traveler's name used to make your booking?'
+2026-02-11 09:11:07 CUSTOMER:'accounts@1stepdiy.com'
+2026-02-11 09:11:12 CUSTOMER:'Lim Chang Yaw'
+2026-02-11 09:11:22 CUSTOMER:'+6598378588'
+2026-02-11 09:11:33 CUSTOMER:'29th Jan - 10th Feb '
+2026-02-11 09:11:41 AGENT:'thank you for the information you provided.'
+2026-02-11 09:12:56 AGENT:'have you received final invoice from the car rental store?'
+2026-02-11 09:13:04 CUSTOMER:'Not yet '
+2026-02-11 09:13:30 AGENT:'Do you have the rental agreement?'
+2026-02-11 09:14:42 CUSTOMER:'{""btype"":""1"",""ext"":{""channel"":""im_customer"",""scene"":""to-operation""},""height"":""180"",""originImageSize"":"""",""originImageUrl"":"""",""thumbUrl"":""https:\/\/dimg04.tripcdn.com\/images\/1mq2p224x98b4zx6i87D1_W_0_540.jpg"",""url"":""https:\/\/dimg04.tripcdn.com\/images\/1mq2p224x98b4zx6i87D1.jpg"",""width"":""102""}'
+2026-02-11 09:15:03 AGENT:'You mentioned the car rental store charged you 100K yen, do you have  payment receipt or credit card charge records'
+2026-02-11 09:15:17 AGENT:'Is this the 100K yen payment record?'
+2026-02-11 09:15:58 CUSTOMER:'{""btype"":""1"",""ext"":{""channel"":""im_customer"",""scene"":""to-operation""},""height"":""180"",""originImageSize"":"""",""originImageUrl"":"""",""thumbUrl"":""https:\/\/dimg04.tripcdn.com\/images\/1mq66224x98b4qjra4B82_Z_0_540.jpg"",""url"":""https:\/\/dimg04.tripcdn.com\/images\/1mq66224x98b4qjra4B82.jpg"",""width"":""83""}'
+2026-02-11 09:16:02 CUSTOMER:'This is the receipt'
+2026-02-11 09:16:15 CUSTOMER:'I had contacted the car rental to send me a copy of the agreement '
+2026-02-11 09:16:18 AGENT:'Thank you'
+2026-02-11 09:16:25 AGENT:'Thank you'
+2026-02-11 09:16:47 CUSTOMER:'{""btype"":""1"",""ext"":{""channel"":""im_customer"",""scene"":""to-operation""},""height"":""180"",""originImageSize"":"""",""originImageUrl"":"""",""thumbUrl"":""https:\/\/dimg04.tripcdn.com\/images\/1mq5m224x98b4tdn70702_Z_0_540.jpg"",""url"":""https:\/\/dimg04.tripcdn.com\/images\/1mq5m224x98b4tdn70702.jpg"",""width"":""83""}'
+2026-02-11 09:16:58 CUSTOMER:'Will send u once I received the agreement '
+2026-02-11 09:17:08 AGENT:'are you expressing dissatisfaction with the 100 kyen charge by the car rental company, or do you have a question about it?'
+2026-02-11 09:17:25 AGENT:'Thank you'
+2026-02-11 09:18:23 CUSTOMER:'I am expressing dissatisfaction of help support in this case  '
+2026-02-11 09:18:48 CUSTOMER:'And not knowing what to do except pay the 100k yen first to car rental company '
+2026-02-11 09:18:48 AGENT:'we are sorry to hear this unpleasant experience you have been through.'
+2026-02-11 09:19:23 CUSTOMER:'As this car is covered under insurance '
+2026-02-11 09:20:26 AGENT:'Did you purchase insurance at the car rental store?'
+2026-02-11 09:21:16 CUSTOMER:'I booked through your website '
+2026-02-11 09:21:29 CUSTOMER:'I am not sure about insurance at car rental '
+2026-02-11 09:21:41 AGENT:'once we receive the materials you provide (rental agreement and final invoice), we will forward them to the relevant departments for verification.'
+2026-02-11 09:22:17 AGENT:'Sorry, I did not see insurance included in your booking'
+2026-02-11 09:22:17 CUSTOMER:'Sure, appreciate your help '
+2026-02-11 09:22:38 AGENT:'No worries. We are here for help'
+2026-02-11 09:22:47 CUSTOMER:'👍'
+2026-02-11 09:22:54 AGENT:'is there anything else that i can assist you with?'
+2026-02-11 09:23:10 CUSTOMER:'That’s all I need for now'
+2026-02-11 09:23:12 CUSTOMER:'Thank u'
+2026-02-11 09:23:19 AGENT:'thank you. have a nice day. bye.'"
+2026-02-11,600000987365096,-7985650926323601177,C,en,改签,"2026-02-11 08:36:23 CUSTOMER:'how can i add another driver to the insurnace'
+2026-02-11 08:36:26 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on theBooking details page.
+You can also apply for free cancellation of your current order before2026-03-14 13:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'"
+2026-02-11,300000987110204,-7985650926323601177,C,en,改签,"2026-02-11 16:16:27 CUSTOMER:'add child seat'
+2026-02-11 16:16:30 ROBOT:'Your booking 1653710228424869 has been confirmed. We recommend contacting the store during business hours to discuss the matter.
+Contact the Pick-up Branch: 065-6557837
+Business hours: 08:00-22:59(Local Time)Contact the Drop-off Branch: 065-6557837
+Business hours: 08:00-22:59(Local Time)
+ 
+You can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the store agrees to the modification, please have them assist you directly. If the store does not agree to your request, we recommend applying for a cancellation with penalties before 2026-02-09 20:30:00 (Local Time). Thank you for your understanding.
+Cancel Booking'"
+2026-02-11,400000985116000,-7985650926323601177,C,en,改签,"2026-02-11 08:31:22 CUSTOMER:'i want to delay the vehicle drop-off time.'
+2026-02-11 08:31:24 ROBOT:'Your booking 1227100812261454 has been canceled.
+If you have inquiries about modifying other bookings, please enter your 11-digit or 16-digit booking number to check the corresponding reservation.
+Generally, once a booking is confirmed, it cannot be modified. We recommend canceling or negotiating with the store.'"
+2026-02-11,100000987952238,-7985650926323601177,C,en,改签,"2026-02-11 14:32:58 CUSTOMER:'请问可以帮忙询问车行可以在harstad的分行还车吗'
+2026-02-11 14:33:01 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+You can also apply for free cancellation of your current order before2026-02-25 08:30:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 14:33:09 CUSTOMER:'人工客服'
+2026-02-11 14:33:12 AGENT:'welcome to trip.com. my name is trip.com-kierany, i am glad to be of your assistance today.'
+2026-02-11 14:33:18 CUSTOMER:'请问可以帮忙询问车行可以在harstad的分行还车吗'
+2026-02-11 14:33:32 AGENT:'您好，请稍等，我帮您查看一下'
+2026-02-11 14:37:31 AGENT:'您好，我这边查看了一下，当前车行还不在工作时间，关于您的这个问题可以帮您创建一个案件发送给车行核实，后续有结果了通知您'
+2026-02-11 14:37:35 AGENT:'您看可以吗？'
+2026-02-11 14:39:10 AGENT:'您好，请问您还在聊天内吗？'
+2026-02-11 14:41:56 AGENT:'would it be alright to end this chat session if there is nothing else that we can assist with? (please understand, if the conversation is not active anymore, the chat will be closed by the system automatically.)'"
+2026-02-11,700000986915071,-7160349369495170942,A,hk,改签,"2026-02-11 14:46:23 CUSTOMER:'抵達，飞机还在划行中。'
+2026-02-11 14:46:28 ROBOT:'為更有效地解決您的問題，請根據您的實際情況選擇一個選項。'"
+2026-02-11,400000985848088,2862217204651706952,C,kr,改签,"2026-02-11 15:54:08 CUSTOMER:'just found out that i reserved a manual car. can i change it to a automatic car?'
+2026-02-11 15:54:15 ROBOT:'예약은 확정되었습니다.
+
+차량 모델 변경 가능 여부는 지점의 보유 현황에 따라 달라질 수 있으며, 추가 요금 관련 문제가 발생할 수 있습니다.  예약 상세 페이지에서 변경 가능 여부를 확인하시거나, 영업시간 내에 지점으로 직접 문의해 주시기 바랍니다.
+
+또한 주문 상세 페이지에서 ""예약 변경"" 버튼이 있는지 확인하신 후, 변경을 시도하실 수 있습니다. 새로운 예약 건의 결제가 완료되면 기존 예약은 자동으로 취소되며, 새로운 예약의 요금은 페이지에 표시된 정보에 따라 적용됩니다.
+
+지점에서 변경 요청을 승인하는 경우, 매장 직원이 직접 도움을 드릴 수 있습니다. 변경이 승인되지 않을 경우, 마감 기한 전에 취소를 신청하시거나 기존 예약 차량으로 이용을 이어가시길 권장드립니다.'"
+2026-02-11,300000987368602,-7160349369495170942,A,hk,改签,"2026-02-11 19:15:28 CUSTOMER:'接送期間可否停靠或更改路線？'
+2026-02-11 19:15:29 ROBOT:'機場接送是一項點對點服務。在服務時間內，我們無法更改行程、停車或接載乘客。您可以嘗試聯繫司機，確認是否可以協助您進行修改。
+'
+2026-02-11 19:17:13 CUSTOMER:'好 感謝告知'
+2026-02-11 19:17:18 ROBOT:'請選擇您要諮詢的訂單：'
+2026-02-11 19:17:26 ROBOT:'請放心，當您成功預訂後，我們將確保您的旅程順利。我們將在最遲司機分配時間前及時為您安排車輛/司機。感謝您的耐心。
+'"
+2026-02-11,100000988321215,-7160349369495170942,A,hk,改签,"2026-02-11 18:23:36 CUSTOMER:'我要換大一點的車輛，如何作業?'
+2026-02-11 18:23:39 ROBOT:'對於目前的預訂 1616328073600348您可以立即免費取消預訂。在之前可免費取消 2026-02-11 22:30(當地時間)。如果您想取消預訂，您可以前往該 預訂詳情 取消預訂的頁面。
+如果您想要進行新的預訂，您可以前往該頁面 我的訂單 選擇新服務。'"
+2026-02-11,600000987519670,-7985650926323601177,C,en,改签,"2026-02-11 10:18:34 CUSTOMER:'can we drop off the car at the airport in isabela'
+2026-02-11 10:18:36 ROBOT:'If you've not made a booking, you can check the drop-off location when you made a booking.
+If you've already made a booking, you can go to the booking details page to check the frop-off location. For detailed dropping-off information, you can also try to contact the drop-off branch.https://dimg04.c-ctrip.com/images/0B75u12000fn5h6478C81.jpgYou can select the following button to find your booking using your email or PIN code.Search Bookingshttps://dimg04.c-ctrip.com/images/0B75812000f7uzauz5444.jpg'
+2026-02-11 10:23:57 CUSTOMER:'can i drop off car at another airport?'
+2026-02-11 10:24:00 ROBOT:'To resolve the issue of modifying your booking, please enter your 11-digit or 16-digit booking number to check the corresponding reservation. Generally, once a booking is confirmed, it cannot be modified. We recommend that you either cancel the booking or negotiate with the store.'
+2026-02-11 10:24:11 CUSTOMER:'i haven't booked yet.'
+2026-02-11 10:24:12 ROBOT:'Please view the change policy on the reservation page.'
+2026-02-11 10:24:14 CUSTOMER:'i haven't booked yet.'
+2026-02-11 10:24:15 ROBOT:'Please view the change policy on the reservation page.'"
+2026-02-11,700000986174723,-7985650926323601177,C,en,改签,"2026-02-11 03:26:43 CUSTOMER:'speak to advisor'
+2026-02-11 03:26:44 ROBOT:'I am always happy to help you. Please let me know if you have any questions.'
+2026-02-11 03:26:57 CUSTOMER:'cardholder name is not the driver of the vehicle'
+2026-02-11 03:27:01 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on theBooking details page.
+You can also apply for free cancellation of your current order before2026-02-18 12:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 03:27:25 CUSTOMER:'speak to advisor'
+2026-02-11 03:27:27 AGENT:'welcome to trip.com. my name is trip.com-alyssa, i am glad to be of your assistance today.'
+2026-02-11 03:27:44 AGENT:'Hello'
+2026-02-11 03:27:53 CUSTOMER:'Hi there, hoping you can help me here. I have booked a car rental for my father in law, it is a surprise trip for his birthday'
+2026-02-11 03:27:55 AGENT:'Is this for the booking 1658109294851232?'
+2026-02-11 03:28:02 CUSTOMER:'yes'
+2026-02-11 03:28:07 AGENT:'Nice, great to hear that'
+2026-02-11 03:28:24 AGENT:'Thank you so much. I hope I can help in this surprise'
+2026-02-11 03:28:34 AGENT:'may i know what help you needed?'
+2026-02-11 03:29:10 CUSTOMER:'Is it an issue that the cardholder for the booking is in my name, Joseph Thompson, but his name is different?'
+2026-02-11 03:29:31 AGENT:'Yes, it will be an issue'
+2026-02-11 03:29:55 CUSTOMER:'How will I book the car for his surprise trip without him knowing?'
+2026-02-11 03:30:11 AGENT:'Oh sorry, my mistake'
+2026-02-11 03:30:29 AGENT:'You mean you are going to book and pay for the booking using your card'
+2026-02-11 03:30:46 CUSTOMER:'Yes I have already booked and paid for the car for him'
+2026-02-11 03:31:07 AGENT:'But the credit card that you need to show in the car branch should be under the driver you registered in the booking'
+2026-02-11 03:31:51 AGENT:'Its okay to book and pay using different card but if you are going to pick up the car, the credit card must be in your Father's name'
+2026-02-11 03:31:55 CUSTOMER:'Okay so he can pick up the car which I have paid for, then he needs to show his own credit card on the day'
+2026-02-11 03:32:14 AGENT:'Yes'
+2026-02-11 03:32:24 AGENT:'Please check the email confirmation we sent'
+2026-02-11 03:32:41 AGENT:'{""thumbUrl"":""https://dimg04.tripcdn.com/images/1ms36224x98b3h6815F87_W_180_0.png"",""url"":""https://dimg04.tripcdn.com/images/1ms36224x98b3h6815F87.png"",""height"":796,""width"":941,""btype"":1,""originImageSize"":-1,""originImageUrl"":"""",""ext"":{""channel"":""im_operation"",""scene"":""default""}}'
+2026-02-11 03:33:36 AGENT:'You will be able to see all the requirements needed to bring in picking up the car'
+2026-02-11 03:33:45 AGENT:'{""thumbUrl"":""https://dimg04.tripcdn.com/images/1ms3g224x98b3xltr4A25_W_180_0.png"",""url"":""https://dimg04.tripcdn.com/images/1ms3g224x98b3xltr4A25.png"",""height"":735,""width"":924,""btype"":1,""originImageSize"":-1,""originImageUrl"":"""",""ext"":{""channel"":""im_operation"",""scene"":""default""}}'
+2026-02-11 03:33:47 AGENT:'is there anything else i can check for you?'
+2026-02-11 03:33:48 CUSTOMER:'Okay cool, that's really useful'
+2026-02-11 03:33:55 AGENT:'yes, thank you for the information'
+2026-02-11 03:33:57 AGENT:'is there anything else i can check for you?'
+2026-02-11 03:34:49 CUSTOMER:'I have also just realised the ""customer info"" name I put ""Archie Hernandez"", when his card/drivers license have ""ARGELIO HERNANDEZ"". Will this be an issue / can it be changed?'
+2026-02-11 03:35:09 AGENT:'Yes, for the car branch this will be an issue'
+2026-02-11 03:35:31 AGENT:'as of the moment, we cannot modify the reservation anymore'
+2026-02-11 03:35:43 AGENT:'However, it is still in free cancellation'
+2026-02-11 03:35:52 AGENT:'I highly suggest to cancel the booking and book a new one'
+2026-02-11 03:36:17 CUSTOMER:'There's no way to change the name at all? I have to cancel and rebook?'
+2026-02-11 03:37:18 AGENT:'If you are going to book a new one and this will be a surprise, I suggest you call the car branch first if you need some help from them. Also you can try to book under your name and just put your father as additional driver (this can have additional charges and the additional driver need to bring all the pick up requirements as well like the main drivers)'
+2026-02-11 03:37:25 AGENT:'But this is only my suggestion'
+2026-02-11 03:37:34 AGENT:'Yes, we cannot modify the name in our end'
+2026-02-11 03:37:50 AGENT:'is there anything else i can check for you?'
+2026-02-11 03:37:52 AGENT:'{""thumbUrl"":""https://dimg04.tripcdn.com/images/1ms2j224x98b4444aF992_W_180_0.png"",""url"":""https://dimg04.tripcdn.com/images/1ms2j224x98b4444aF992.png"",""height"":314,""width"":802,""btype"":1,""originImageSize"":-1,""originImageUrl"":"""",""ext"":{""channel"":""im_operation"",""scene"":""default""}}'
+2026-02-11 03:38:02 CUSTOMER:'Could you give me the contact info for the car branch?'
+2026-02-11 03:38:07 AGENT:'Sure'
+2026-02-11 03:38:23 AGENT:'{""thumbUrl"":""https://dimg04.tripcdn.com/images/1ms25224x98b3di0807E5_W_180_0.png"",""url"":""https://dimg04.tripcdn.com/images/1ms25224x98b3di0807E5.png"",""height"":555,""width"":808,""btype"":1,""originImageSize"":-1,""originImageUrl"":"""",""ext"":{""channel"":""im_operation"",""scene"":""default""}}'
+2026-02-11 03:38:26 AGENT:'Contact Number +1-4159172713'
+2026-02-11 03:38:38 AGENT:'That is for the current booking you have'
+2026-02-11 03:38:41 AGENT:'is there anything else i can check for you?'
+2026-02-11 03:39:00 CUSTOMER:'No that's all for now thank you'
+2026-02-11 03:39:05 AGENT:'you are welcome'
+2026-02-11 03:39:07 AGENT:'it has been a pleasure to assist you today. once again, my name is alyssa. thank you for doing business with trip.com. have a great day!'"
+2026-02-11,800000985910730,-7985650926323601177,C,en,改签,"2026-02-11 14:40:17 CUSTOMER:'how can i add a second driver?'
+2026-02-11 14:40:20 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on theBooking details page.
+You can also apply for free cancellation of your current order before2026-02-15 09:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 14:41:02 CUSTOMER:'the service provided by trip.com chatbot was terrible'
+2026-02-11 14:41:03 ROBOT:'We are sorry that we haven't been able to resolve your problem satisfactorily, please tap the button below to contact our agent for assistance. '
+2026-02-11 14:41:11 CUSTOMER:'transfer to an agent'
+2026-02-11 14:41:13 AGENT:'welcome to trip.com. my name is elvis z, i am glad to be of your assistance today.'
+2026-02-11 14:41:27 CUSTOMER:'How can I add a second driver?'
+2026-02-11 14:41:36 AGENT:'please confirm the booking you want to ask about. to view details, please ensure you are using the latest version of the trip.com app.'
+2026-02-11 14:42:49 CUSTOMER:'current consulting order'
+2026-02-11 14:42:57 AGENT:'please allow me review your request. give me 2 to 3 minutes. thank you!'
+2026-02-11 14:45:21 AGENT:'thank you for you patience. please verify this with the store directly, as we are unable to assist with this on our end. would you like the store's contact information?'
+2026-02-11 14:47:35 AGENT:'is there anything else i can assist you with?'
+2026-02-11 14:48:45 AGENT:'would it be alright to end this chat session if there is nothing else that we can assist with? (please understand, if the conversation is not active anymore, the chat will be closed by the system automatically.)'"
+2026-02-11,800000986045375,2862217204651706952,C,kr,改签,"2026-02-11 15:58:41 CUSTOMER:'예약 변경은 어떻게 하나요?'
+2026-02-11 15:58:43 ROBOT:'예약 1400823659957304은 확정되었습니다.
+
+예약 변경이 필요하실 경우, 주문 상세 페이지에서 ""예약 변경"" 버튼이 있는지 확인하시고, 버튼을 통해 변경을 시도해 주시기 바랍니다. 새로운 예약 건에 대한 결제가 완료되면 기존 예약은 자동으로 취소됩니다. 새로운 예약의 요금은 페이지에 표시된 정보에 따라 적용됩니다.
+
+변경이 원활하지 않을 경우, 아래 버튼을 눌러 예약을 취소 후 다시 진행하실 수 있습니다.
+예약은 2026-02-24 09:00:00(현지 시간)까지 무료 취소 가능합니다. 취소가 완료되면 환불은 영업일 기준 약 7~30일 내 처리됩니다.
+예약 취소  
+'"
+2026-02-11,500000987113980,-7985650926323601177,C,en,改签,"2026-02-11 14:41:21 CUSTOMER:'chang date'
+2026-02-11 14:41:25 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+Pick-up and drop-off times must be within the store's business hours.
+You can also apply for free cancellation of your current order before2026-02-05 08:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 14:41:48 CUSTOMER:'chat'
+2026-02-11 14:41:56 ROBOT:'Please select the button below to contact our agent for assistance.'
+2026-02-11 14:41:59 CUSTOMER:'transfer to an agent'
+2026-02-11 14:42:01 AGENT:'welcome to trip.com. my name is trip.com-kierany, i am glad to be of your assistance today.'
+2026-02-11 14:42:09 CUSTOMER:'Hello Kieran'
+2026-02-11 14:42:21 AGENT:'Hello, is there any issue I can help with your car rental booking?'
+2026-02-11 14:42:29 CUSTOMER:'I would like to change the booking'
+2026-02-11 14:42:54 CUSTOMER:'My car rental from tomorrow to the day after tomorrow  '
+2026-02-11 14:43:00 CUSTOMER:'Can I ?'
+2026-02-11 14:43:30 AGENT:'We can help have a check on this issue but the result may not be guaranteed, may I know about the information you would like to make a change for the booking?'
+2026-02-11 14:44:36 CUSTOMER:'13-14'
+2026-02-11 14:45:02 AGENT:'Noted regarding this, let me have a further check on this issue, please give me 3-5 mins.'
+2026-02-11 14:49:36 AGENT:'Hello, just had a check regarding this booking, for the modification of the original booking, currently you may need to click the modify button on the booking detail page to proceed for the time change issue.'
+2026-02-11 14:50:06 CUSTOMER:'Yep i know'
+2026-02-11 14:50:19 CUSTOMER:'I prefer Nissan rental dealer'
+2026-02-11 14:50:26 CUSTOMER:'Not other'
+2026-02-11 14:50:54 CUSTOMER:'Can you help me please check with them'
+2026-02-11 14:51:45 AGENT:'yes, will help make a call to them and see whether they would be able make the coordination, however, please kindly note that the result would be based on the rental branch's feedback.'
+2026-02-11 14:51:51 AGENT:'Please give me 3-5 mins.'
+2026-02-11 14:56:00 AGENT:'Hello, just made a call to the branch, regarding this changing issue, as we are unable to directly get through to them and confirm on the changing issue, we will help create a case to them for further verification and will get back to you accordingly once received their feedback. May we know whether we can update you using email or phone call?'
+2026-02-11 14:56:23 CUSTOMER:'Phone '
+2026-02-11 14:56:44 CUSTOMER:'Sorry better email'
+2026-02-11 14:57:04 AGENT:'Noted, will help create the case for you now for verification.'
+2026-02-11 14:57:09 CUSTOMER:'When do i know ?'
+2026-02-11 14:57:35 CUSTOMER:'If i cancel do i get i full refund? '
+2026-02-11 14:58:29 AGENT:'Yes for this one it is under the trip cover, means that there would be a free cancellation available accordingly.'
+2026-02-11 14:59:00 CUSTOMER:'Let me book other so i will cancel '
+2026-02-11 14:59:13 CUSTOMER:'How long for get a refund '
+2026-02-11 14:59:17 AGENT:'We will try to update you in next 24 hours as soon as possible, however, if there would be no further follow up before tomorrow's pick up time, please consider this as not successful for the changing request and you may cancel with a full refund.'
+2026-02-11 14:59:46 AGENT:'Normally once processed it will take about 1-10 business days for the amount to be returned to your original payment account.'
+2026-02-11 15:02:15 CUSTOMER:'I tru to find new booking indrr hertz , budget nissan dealer but i cant '
+2026-02-11 15:02:27 CUSTOMER:'Any recommend dealer '
+2026-02-11 15:02:36 CUSTOMER:'Please suggest '
+2026-02-11 15:03:37 AGENT:'Let me help have a check for you accordingly.'
+2026-02-11 15:09:54 AGENT:'Just had a further check, for the rental service supplier available for the rental period from 13th Feb to 14 Feb, referring to the rates on our platform, you may consider adati rent a car or Soukyo rent a car. But the suggestion would be for reference only based on the rate disclosed on the front page.'
+2026-02-11 15:10:38 CUSTOMER:'Quite dar from Tokyo station'
+2026-02-11 15:11:01 CUSTOMER:'Did Nissan get back to you? '
+2026-02-11 15:11:08 CUSTOMER:'Mu previous '
+2026-02-11 15:11:21 CUSTOMER:'My previous booking.  '
+2026-02-11 15:13:27 AGENT:'Hello, just had a check, we are still waiting for their further update on the case created currently.'
+2026-02-11 15:17:56 AGENT:'Therefore we would suggest to wait for their feedback first for the case update and if there would be no further update in the next 4 hours, you may contact us again.'
+2026-02-11 15:18:20 CUSTOMER:'I prefer cancel '
+2026-02-11 15:19:16 AGENT:'Noted on your concerns may we know whether you would like to have us performed the cancellation for you or you may proceed to have the booking cancelled on your end?'
+2026-02-11 15:19:41 CUSTOMER:'Can you do it for me'
+2026-02-11 15:20:30 AGENT:'Yes, you may kindly confirm in the chat and we will help proceed for the cancellation for you. Please kindly note that once cancelled the booking cannot be retrieved.'
+2026-02-11 15:21:06 CUSTOMER:'I prefer to cancel my car rental with full refund  '
+2026-02-11 15:21:09 CUSTOMER:'Thanks'
+2026-02-11 15:21:41 AGENT:'OK, we will help process for you on our end as per your confirmation.'
+2026-02-11 15:28:38 AGENT:'Hello, we already processed the cancellation for you from our system.'
+2026-02-11 15:29:04 AGENT:'May we know whether there would be any further assistance required on your side?'
+2026-02-11 15:29:22 CUSTOMER:'Im ok thanks'"
+2026-02-11,300000986180835,-7160349369495170942,A,hk,改签,"2026-02-11 01:28:41 CUSTOMER:'真人服務'
+2026-02-11 01:30:47 CUSTOMER:'如何更改接機或送機地點？'
+2026-02-11 01:30:47 ROBOT:'若您需要對您的行程進行任何更改，請隨時點擊下方按鈕。修改訂單
+提示:如果您還有其他問題，請點擊下方按鈕聯繫供應商。希望這對您有所幫助！ 
+聯繫供應商
+
+'"
+2026-02-11,800000986361593,-7160349369495170942,A,hk,改签,"2026-02-11 19:34:03 CUSTOMER:'如何確認車輛信息'
+2026-02-11 19:34:04 ROBOT:'您的預訂已確認，我們將保證您的行程安排並在之前為您安排車輛/司機 2026-02-15 18:20:00。您可以通過前往該頁面查看具體的司機安排時間 預訂詳情 頁面。'
+2026-02-11 19:34:35 CUSTOMER:'如何聯絡司機？'
+2026-02-11 19:34:36 ROBOT:'對於目前的預訂 1359040901523968，接送地點是 關西國際機場 T1。司機的資訊將在之前更新 2026-02-15 18:20:00(當地時間)。您可以在上找到司機的聯絡資訊 預訂詳情 頁面。'
+2026-02-11 19:35:29 CUSTOMER:'更改接送機服務時間'
+2026-02-11 19:35:30 ROBOT:'您預訂的最新免費修改時間為 2026-02-15 08:20:00 (當地時間)。請訪問 修改接送時間 在截止日期前修改您的預訂的頁面。
+如果您需要更改日期，您可以點擊 此處 調整您的行程。請注意，重新選擇行程可能會導致價格變動。如果沒有符合您需求的選項，我們建議取消您當前的預訂並下新訂單。
+'"
+2026-02-11,200000989242294,-7985650926323601177,C,en,改签,"2026-02-11 14:20:00 CUSTOMER:'i will be late for pick up'
+2026-02-11 14:20:03 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+Pick-up and drop-off times must be within the store's business hours.
+You can also apply for free cancellation of your current order before2026-02-11 13:30:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'"
+2026-02-11,700000986405793,-7985650926323601177,C,en,改签,"2026-02-11 09:51:09 CUSTOMER:'according to we will drive to hakuba, so we need snow car tyres. please prepare snow car tyres to the car as well. '
+2026-02-11 09:51:14 ROBOT:'Your booking can be modified. Please refer to the booking details page for specific policies.'"
+2026-02-11,500000986347690,-7985650926323601177,C,en,改签,"2026-02-11 01:36:31 CUSTOMER:'ฉันจะเปลี่ยนแปลงการจองได้อย่างไร'
+2026-02-11 01:36:33 ROBOT:'การจองของคุณ 1622924450986222 ได้รับการยืนยันแล้ว เราขอแนะนำให้ติดต่อร้านในเวลาทำการเพื่อพูดคุยเรื่องนี้.
+Contact the Pick-up Branch: 81-7085688898
+Business hours: 07:30-22:30(Local Time)Contact the Drop-off Branch: 81-7085688898
+Business hours: 07:30-22:30(Local Time)
+ 
+คุณสามารถตรวจสอบว่ามีปุ่ม""แก้ไขการสั่งซื้อ""บนหน้ารายละเอียดการสั่งซื้อหรือไม่ และลองเปลี่ยนการสั่งซื้อ หลังจากที่คุณทำการชำระเงินสำหรับการจองห้องพักใหม่แล้ว การจองเดิมจะถูกยกเลิกโดยอัตโนมัติ ราคาสำหรับการจองห้องพักใหม่จะขึ้นอยู่กับข้อมูลที่แสดงบนหน้า
+หากร้านค้ายินยอมให้ทำการแก้ไข โปรดขอความช่วยเหลือจากพวกเขาโดยตรง หากร้านค้าไม่ยินยอมคำขอของคุณ เราขอแนะนำให้ยื่นคำขอยกเลิกพร้อมกับการปรับปรุงก่อน 2026-02-05 10:30:00 (Local Time). ขอบคุณสำหรับความเข้าใจของคุณ.
+ยกเลิกการจอง
+'
+2026-02-11 01:36:41 CUSTOMER:'ยกเลิกประกัน'
+2026-02-11 01:36:47 ROBOT:'If you want to cancel the Trip.com insurance, please click the button below and upload the certificate like the receipt of insurance from the branch and your description. The additional description helps the rental branch understand your situation.Apply for cancellation'
+2026-02-11 01:37:04 CUSTOMER:'ติดต่อเจ้าหน้าที่'
+2026-02-11 01:37:05 ROBOT:'เรายินดีที่จะช่วยเหลือคุณ คุณสามารถคลิกที่คำถามที่แนะนำด้านล่างหรือป้อนคำถามที่คุณต้องการสอบถาม เพื่อให้เราได้ช่วยเหลือคุณเพิ่มเติม'
+2026-02-11 01:37:08 CUSTOMER:'กำลังโอนการสนทนาให้เจ้าหน้าที่'
+2026-02-11 01:38:26 CUSTOMER:'cancel insurance'
+2026-02-11 01:38:29 ROBOT:'According to the cancellation policy, if you request to cancel the booking due to time change, THB 7643.15 (the penalty fee) will be charged.
+
+Before 168 hour before pick-up: Free cancellation available;
+Between 168 hour before pick-up and 120 hour before pick-up: Cancellation will incur a charge equivalent to 20% of the rental fee;
+Between 120 hour before pick-up and 72 hour before pick-up: Cancellation will incur a charge equivalent to 40% of the rental fee;
+After 72 hour before pick-up: Cancellation will incur a charge equivalent to the full rental fee.
+
+If you want to cancel the booking now, please select the following button.
+Cancel Booking
+This branch does not require a deposit.'
+2026-02-11 01:38:33 CUSTOMER:'transfer to an agent'
+2026-02-11 01:38:35 AGENT:'welcome to trip.com. my name is jorj y, i am glad to be of your assistance today.'
+2026-02-11 01:38:39 CUSTOMER:'Hello'
+2026-02-11 01:38:41 AGENT:'hi there'
+2026-02-11 01:38:51 CUSTOMER:'cancel insurance for car booking'
+2026-02-11 01:38:57 AGENT:'Well noted'
+2026-02-11 01:39:16 CUSTOMER:'thats all?'
+2026-02-11 01:39:30 AGENT:'please allow me to review your request. give me 2 to 3 minutes. thank you!'
+2026-02-11 01:39:36 CUSTOMER:'ok'
+2026-02-11 01:39:57 AGENT:'well received.'
+2026-02-11 01:40:20 AGENT:'Please note that once the insurance cancellation is proceed, it can no longer be restored'
+2026-02-11 01:40:31 CUSTOMER:'Cancel fifnish?'
+2026-02-11 01:40:40 AGENT:'Are you sure to let me proceed the cancellation right now?'
+2026-02-11 01:40:51 CUSTOMER:'yes only insurance'
+2026-02-11 01:40:55 AGENT:'well received.'
+2026-02-11 01:40:59 AGENT:'On it now'
+2026-02-11 01:41:27 AGENT:'Done'
+2026-02-11 01:41:37 CUSTOMER:'How can i check>'
+2026-02-11 01:41:50 AGENT:'Upon checking, this booking insurance has been successfully canceled.'
+2026-02-11 01:42:15 CUSTOMER:'ความคุ้มครองเต็มรูปแบบ ฿ 1,637.25 ฿ 327.45×5 วัน'
+2026-02-11 01:42:30 AGENT:'A refund of THB 1637.25 will be credited back to your KASIKORNBANK PUBLIC COMPANY LIMITED account within 15 to 30 working days. ​​​​​​​'
+2026-02-11 01:42:31 AGENT:'Please note that the actual date you will receive the refund will depend on your bank/card issuer. Your patience and understanding will be highly appreciated.'
+2026-02-11 01:42:32 CUSTOMER:'still show in my booking'
+2026-02-11 01:42:33 AGENT:'hope the information helps'
+2026-02-11 01:42:59 CUSTOMER:'ok'
+2026-02-11 01:43:01 AGENT:'You can refresh the booking and check again'
+2026-02-11 01:43:09 AGENT:'your satisfaction is important to us, and we are here to help.'
+2026-02-11 01:43:12 AGENT:'while i am still on the line is there something else i can assist you with?'
+2026-02-11 01:43:19 CUSTOMER:'still have insurance'
+2026-02-11 01:43:40 AGENT:'May I have a screenshot of the page you're checking?'
+2026-02-11 01:43:48 CUSTOMER:'{""thumbUrl"":""https://dimg04.tripcdn.com/images/1mq6x224x98b2p8eu638A_W_180_0.jpg?proc=autoorient"",""url"":""https://dimg04.tripcdn.com/images/1mq6x224x98b2p8eu638A.png"",""height"":80,""width"":180,""btype"":1,""originImageSize"":-1,""originImageUrl"":"""",""ext"":{}}'
+2026-02-11 01:43:55 CUSTOMER:'that's it'
+2026-02-11 01:44:03 AGENT:'Great'
+2026-02-11 01:44:10 AGENT:'The refund is on the way now as you can see'
+2026-02-11 01:44:14 AGENT:'hope the information helps'
+2026-02-11 01:44:20 CUSTOMER:'Ok thank you'
+2026-02-11 01:44:23 AGENT:'is there anything else that i can assist you with?'
+2026-02-11 01:44:25 AGENT:'my pleasure to help'
+2026-02-11 01:44:30 CUSTOMER:'so much'
+2026-02-11 01:44:35 AGENT:'no worries at all'
+2026-02-11 01:44:37 AGENT:'whenever you need any additional assistance, please do not hesitate to contact us and our team will be privileged to assist you in any way we can.'
+2026-02-11 01:44:39 AGENT:'while i am still on the line is there something else i can assist you with?'
+2026-02-11 01:44:59 CUSTOMER:'OK Thank agian'
+2026-02-11 01:45:05 AGENT:'my pleasure to help'
+2026-02-11 01:45:09 AGENT:'it was nice talking to you. have a great day'
+2026-02-11 01:45:12 AGENT:'If you need help in the future, I'll be here for you.'
+2026-02-11 01:45:14 AGENT:'Take care sir'"
+2026-02-11,600000987372957,-7160349369495170942,A,hk,改签,"2026-02-11 08:42:27 ROBOT:'Trip.com目前不支持修改機場接送預訂。
+提示:請確認您選擇的上車或下車地點是否準確且方便。如果無法準確定位，建議重新選擇。
+我們建議您聯繫司機，以協調您的機場接送地點。或者，您可以選擇在最晚取消時間之前申請免費取消預訂，然後重新預訂。通常退款將在7至14個工作日內退回您的帳戶。
+'
+2026-02-11 08:42:49 CUSTOMER:'飯店整修導致修改'
+2026-02-11 08:42:52 ROBOT:'Trip.com目前不支持修改機場接送預訂。
+提示:請確認您選擇的上車或下車地點是否準確且方便。如果無法準確定位，建議重新選擇。
+我們建議您聯繫司機，以協調您的機場接送地點。或者，您可以選擇在最晚取消時間之前申請免費取消預訂，然後重新預訂。通常退款將在7至14個工作日內退回您的帳戶。
+'
+2026-02-11 08:43:41 CUSTOMER:'trip.com 智能客服提供的服務一般'
+2026-02-11 08:43:43 AGENT:'您好！歡迎使用在線客服，我是alice. f ，很高興為您服務。'
+2026-02-11 08:43:53 CUSTOMER:'深圳原本訂的飯店整修，trip 客服幫我改到青木，我有訂接送機服務 ，請幫忙修改飯店地址'
+2026-02-11 08:44:09 AGENT:'請閣下提供訂單號，為您查詢'
+2026-02-11 08:44:22 CUSTOMER:'訂單編號:1616327321434500,香港國際機場 (hkg) 接機,2026 年 3 月 21 日'
+2026-02-11 08:44:34 AGENT:'通常接送機訂單頁面有提供修改的位置，可以直接在訂單上提交申請的'
+2026-02-11 08:44:36 CUSTOMER:'訂單編號:1616327321437700,香港國際機場 (hkg) 送機,2026 年 3 月 25 日'
+2026-02-11 08:44:51 AGENT:'收到訂單'
+2026-02-11 08:45:08 CUSTOMER:'不能直接改嗎'
+2026-02-11 08:45:35 AGENT:'目前我們無法在訂單上修改，如果您可以在訂單頁面看到有修改的位置，可以直接提交'
+2026-02-11 08:45:52 CUSTOMER:'會增加費用'
+2026-02-11 08:46:36 CUSTOMER:'修改飯店是trip 幫我改的 機場接送不能改'
+2026-02-11 08:46:39 CUSTOMER:'？'
+2026-02-11 08:46:43 AGENT:'修改地點可能會與原地點費用不一致，需要以頁面顯示為準'
+2026-02-11 08:47:05 CUSTOMER:'增加出來的費用我要自己承擔嗎'
+2026-02-11 08:47:10 AGENT:'不同產品的修改程序會不同的，抱歉目前我們無法直接修改'
+2026-02-11 08:47:47 CUSTOMER:'距離原本的飯店附近'
+2026-02-11 08:47:59 CUSTOMER:'你可以查一下'
+2026-02-11 08:48:24 AGENT:'接送機的修改費用是多退少補，如果需要補費用，您可以嘗試與飯店核實是否有補償方案'
+2026-02-11 08:49:03 CUSTOMER:'原本的飯店整修'
+2026-02-11 08:50:32 AGENT:'如修改增加了費用，您可以先留意重新預訂的費用情況，然後訂單的免費取消時間是訂單首次未派遣到司機，可免費取消訂單'
+2026-02-11 08:58:29 AGENT:'您好，請問您還在線嗎？'
+2026-02-11 08:58:45 CUSTOMER:'在'
+2026-02-11 08:58:52 CUSTOMER:'重點是沒有幫助'
+2026-02-11 08:59:34 CUSTOMER:'不是我的問題 為什麼我要自行解決'
+2026-02-11 09:00:07 AGENT:'訂單是不支持我們直接更改，如您需我們修改，請提供飯店名字與地址，這邊進一步核實'
+2026-02-11 09:00:12 AGENT:'後續以回覆為準'
+2026-02-11 09:00:22 CUSTOMER:'青木'
+2026-02-11 09:00:31 CUSTOMER:'你可以看一下訂房'
+2026-02-11 09:01:25 AGENT:'{""thumbUrl"":""https://dimg04.c-ctrip.com/images/1ms3m12000rhcbboc1851_W_180_0.png"",""url"":""https://dimg04.c-ctrip.com/images/1ms3m12000rhcbboc1851.png"",""height"":437,""width"":1186,""btype"":1,""originImageSize"":-1,""originImageUrl"":"""",""ext"":{""channel"":""im_operation"",""scene"":""default""}}'
+2026-02-11 09:01:27 AGENT:'請問是否是這家'
+2026-02-11 09:02:22 CUSTOMER:'https://www.trip.com/w/ubv8c1xlST2'
+2026-02-11 09:02:30 CUSTOMER:'{""btype"":""1"",""ext"":{""channel"":""im_customer"",""scene"":""to-operation""},""height"":""180"",""originImageSize"":"""",""originImageUrl"":"""",""thumbUrl"":""https:\/\/dimg04.tripcdn.com\/images\/1mq1e224x98b4kxkj4DF6_Z_0_540.jpg"",""url"":""https:\/\/dimg04.tripcdn.com\/images\/1mq1e224x98b4kxkj4DF6.jpg"",""width"":""84""}'
+2026-02-11 09:02:40 AGENT:'收到'
+2026-02-11 09:02:49 CUSTOMER:'謝謝你幫忙'
+2026-02-11 09:02:52 AGENT:'這邊進一步與供應商核實更改地址問題，後續回覆您'
+2026-02-11 09:02:54 AGENT:'不客氣'
+2026-02-11 09:02:56 AGENT:'請問後續有結果，通過什麼方式聯繫您比較方便？可以電話、郵件或這裡的實時會話。'
+2026-02-11 09:03:13 CUSTOMER:'這裡可以'
+2026-02-11 09:03:20 AGENT:'好的'
+2026-02-11 09:03:51 CUSTOMER:'好的👌'
+2026-02-11 09:04:03 AGENT:'感謝理解'
+2026-02-11 09:07:01 AGENT:'請問您還有其他問題需要補充嗎？'
+2026-02-11 09:08:23 AGENT:'如果您暫時沒有其他需要我們協助的問題，我將結束本次會話，請問可以嗎？（溫馨提示：若您長時間沒有回應，系統可能會自動關閉會話）'
+2026-02-11 09:08:39 AGENT:'有問題歡迎您隨時再來～ 請您稍後對我的本次服務進行評價，感謝您使用線上客服，祝您生活愉快！'"
+2026-02-11,600000988619538,-7160349369495170942,A,hk,改签,"2026-02-11 22:03:58 CUSTOMER:'sorry i need chang the time at tomorrow am 10:00.'
+2026-02-11 22:04:01 ROBOT:'我們查看您已經有相關訂單。請前往 預訂詳情 查看詳細信息和預訂狀態的頁面。如果您想要進行新的預訂，請前往該頁面 機場接送 搜索產品的頁面。'
+2026-02-11 22:04:31 CUSTOMER:'but i can,t change the time.'
+2026-02-11 22:04:36 ROBOT:'您可以點擊 這裡 調整您的行程。 請注意，重新選擇您的行程可能會導致價格變動。
+如果沒有任何選項符合您的要求，您可以點擊 取消預訂 然後根據需要再次選擇。對於當前的預訂，最新的免費取消時間是 
+2026-02-11 16:00:00 (接送地點時間)。
+取消可能會產生某些費用。
+提示:If you still have any other questions, please click the button below to contact the supplier.Or we recommend contacting the driver to negotiate : 90-5510030713。我希望這對您有所幫助！
+聯繫供應商
+
+'"
+2026-02-11,800000985782623,-7985650926323601177,C,en,改签,"2026-02-11 13:28:02 CUSTOMER:'i need to change my first name on the booking, my nickname not my legal name has come on the booking. how do i do that'
+2026-02-11 13:28:05 ROBOT:'Your booking 1167727138193599 has been confirmed. Typically, rental companies have restrictions on the driver's age, driving experience, and other conditions. If you need to modify the driver's information or add an additional driver, you should communicate with the rental company before renting and ensure that the information is included in the rental agreement. This is to ensure legality and insurance coverage while driving. We recommend contacting the store during business hours to discuss the matter.
+Contact the Pick-up Branch: 61-136139
+Business hours: 06:00-22:30(Local Time)Contact the Drop-off Branch: 61-735414790
+Business hours: 05:00-23:59(Local Time)
+ 
+You can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the store agrees to the modification, please have them assist you directly. If the store does not agree to your request, we recommend applying for a cancellation with penalties before 2026-02-11 10:00:00 (Local Time). Thank you for your understanding.
+Cancel Booking'
+2026-02-11 13:29:53 CUSTOMER:'how do i confirm my rental vehicle information?'
+2026-02-11 13:29:54 ROBOT:'The vehicle type of the current booking 1167727138193599 are as follow:
+The vehicle type: Toyota CorollaThe gear type: automatic transmissionThe seat ocunts: 5The luggage counts: 2Please kindly go to the Booking details page to check specific information.Tips:The rental store may offer similar models instead of an exact match.'"
+2026-02-11,700000986152869,2862217204651706952,C,kr,改签,"2026-02-11 02:05:37 CUSTOMER:'차량인수 시간이 늦을듯 하네요'
+2026-02-11 02:05:44 ROBOT:'현재 예약은 취소되었습니다. 환불 금액은 아래 표를 통해 확인해 주시기 바랍니다. 환불 시점은 카드사에 따라 다를 수 있습니다.
+환불 금액	방법	환불 주기
+KRW 122988.00	Lotte Card (credit)처리 시간: 2025-12-03 04:00(UTC+09:00)상태:성공	환불이 계정에 도착하는 데 1에서 7일 사이의 작업일이 소요될 것입니다
+'"
+2026-02-11,600000987797178,2862217204651706952,C,kr,改签,"2026-02-11 13:03:53 CUSTOMER:'오카야마 항공권이 운항정보가 변경되었다고 합니다. 예약번호는 1400823547729587 입니다. 연계해서 예약해서 결제한 오카야마 렌트카 일정은 어떻게 변경하나요? 예약번호는 1400823174258073 입니다.'
+2026-02-11 13:04:01 CUSTOMER:'문의하려는 예약을 확인해 주세요'
+2026-02-11 13:04:05 ROBOT:'Your booking 1400823174258073 has been confirmed. If you need to make changes, please refer to the booking details page to view the policies.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-04-02 09:30:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'
+2026-02-11 13:05:26 CUSTOMER:'취소하지 않고 렌트시간만 변경하기를 원합니다. 어떻게 하나요?'
+2026-02-11 13:05:32 ROBOT:'Your booking 1400823174258073 has been confirmed. If you need to make changes, please refer to the booking details page to view the policies.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-04-02 09:30:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'
+2026-02-11 13:05:59 CUSTOMER:'상담원 연결'
+2026-02-11 13:06:00 AGENT:'고객님의 여정과 함께하는 트립닷컴 렌터카 고객만족부서 상담사 yuume c입니다. 무엇을 도와드릴까요?'
+2026-02-11 13:06:19 AGENT:'안녕하세요 고객님'
+2026-02-11 13:07:54 CUSTOMER:'오카야마 항공권이 운항정보가 변경되었다고 합니다. 예약번호는 1400823547729587 입니다. 연계해서 예약해서 결제한 오카야마 렌트카 일정은 어떻게 변경하나요? 취소하지않고 시간을 변경하는것을 원합니다. 예약번호는 1400823174258073 입니다.'
+2026-02-11 13:08:23 AGENT:'말씀 감사합니다. 본인이 아닌 경우 상담이 제한 될수 있다보니 소중한 개인정보 보호를 위하여 연락주신 고객님 성함 제공 부탁드립니다.'
+2026-02-11 13:08:41 CUSTOMER:'오성환입니다.'
+2026-02-11 13:09:03 AGENT:'네 고객님, 확인 감사합니다.'
+2026-02-11 13:09:24 AGENT:'문의하신 내용에 대하여 확인하겠습니다. 잠시만 기다려주세요.'
+2026-02-11 13:13:00 AGENT:'기다려 주셔서 감사합니다 고객님'
+2026-02-11 13:13:11 AGENT:'도착시간이 변경되였나요?'
+2026-02-11 13:13:52 AGENT:'09:30분에 인수되는걸로 확인되는데요, 몇시에 인수 가능하실까요?'
+2026-02-11 13:14:47 CUSTOMER:'항공기 시간이 바뀌었습니다. 오카야마 도착시간이 12:15분으로 바뀌고, 오카야마 출발시간도 13:15분으로 바뀌었습니다. 그래서 시간만 13:00인수, 12:30반납으로 하고자합니다.'
+2026-02-11 13:15:03 AGENT:'네 고객님'
+2026-02-11 13:15:49 AGENT:'규정상 변경이 불가능하기에,인수시간 조율이 가능할지를 업체와 확인이 필요합니다.다만 결과는 보장해드리기 어렵고, 결과 확인 되는대로 안내해드리겠습니다.'
+2026-02-11 13:15:53 CUSTOMER:'기존 도착시간은 09:00였고, 출발시간은 10:35분 출발이었습니다.'
+2026-02-11 13:16:03 AGENT:'추후 안내는 전화와 이메일 중 어떤 방식으로 연락드리면 될까요?'
+2026-02-11 13:16:17 CUSTOMER:'전화로 주세요'
+2026-02-11 13:16:29 AGENT:'네 고객님'
+2026-02-11 13:16:48 AGENT:'다른 문의 사항 있으신가요?'
+2026-02-11 13:16:58 CUSTOMER:'네 없습니다 감사합니다.'
+2026-02-11 13:17:04 AGENT:'추가 문의 사항이 없으실 경우 상담 종료하도록 하겠습니다.건강 유의하시고 지금까지 트립닷컴 상담사 yuume였습니다. 궁금하신 사항이 있으실 경우 언제든지 한국어 사이트 (https://kr.trip.com)에서 1:1 온라인 채팅을 통해 문의 부탁드립니다.감사합니다. 좋은 하루 보내세요.'
+2026-02-11 13:17:07 AGENT:'트립닷컴을 이용해 주셔서 감사드리며, 추가 문의가 있는 경우 언제든지 연락 부탁드립니다.'"
+2026-02-11,300000986978149,-7160349369495170942,A,hk,改签,"2026-02-11 14:56:19 CUSTOMER:'如果我要乘搭成田機場巴士到東京池袋大都會大飯店應該揀邊個站落車?'
+2026-02-11 14:56:22 ROBOT:'您目前尚未選擇任何預訂。
+如果您已進行預訂，請前往 我的預訂 選擇預訂和查詢的頁面。
+您可以在APP中的訂單詳細頁面修改您的聯繫信息、接送地址和乘車時間。請注意，修改地址或乘車時間可能會導致價格變更，您可以按照屏幕上的指示進行操作。
+如果訂單顯示不允許修改，您可以在最晚取消時間前提交免費取消申請，並嘗試重新預訂。如果取消成功，退款通常會在7-14個工作日內退回到您的原始支付賬戶。
+'"
+2026-02-11,200000989225228,-7985650926323601177,C,en,改签,"2026-02-11 14:12:33 CUSTOMER:'i want to delay the vehicle drop-off time.'
+2026-02-11 14:12:34 ROBOT:'To resolve the issue of modifying your booking, please enter your 11-digit or 16-digit booking number to check the corresponding reservation. Generally, once a booking is confirmed, it cannot be modified. We recommend that you either cancel the booking or negotiate with the store.'"
+2026-02-11,500000987144381,-7985650926323601177,C,en,改签,"2026-02-11 14:58:38 CUSTOMER:'i want to confirm the pick up location of the car'
+2026-02-11 14:58:43 ROBOT:'Your booking has been confirmed. Whether you can pick up or drop off the car at a different location or change the pick-up or drop off store depends on the store's policy, and it usually involves additional fees. You can visit the booking details page to check if the policy can be changed or contact the store during business hours to discuss the matter.  
+You can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the store agrees to the modification, please have them assist you directly. If the store does not agree to your request, we recommend applying for a cancellation before deadline.'
+2026-02-11 14:59:12 CUSTOMER:'what if i can't get in touch with the store?'
+2026-02-11 14:59:12 ROBOT:'If you want to contact the car rental branch, you can check the contact information on the Booking details page.
+Contact the Pick-up Branch: 81-7054634084
+Contact the Drop-off Branch: 81-7054634084
+https://dimg04.c-ctrip.com/images/0B75u12000fn5h6478C81.jpg'"
+2026-02-11,400000986143950,-7160349369495170942,A,hk,改签,"2026-02-11 19:12:48 CUSTOMER:'如何聯絡司機？'
+2026-02-11 19:12:50 ROBOT:'對於目前的預訂 1616327939186845，接送地點是 福岡機場 I。您也可以嘗試聯繫司機。81-9084188999'
+2026-02-11 19:13:08 CUSTOMER:'我在接送地點'
+2026-02-11 19:13:12 ROBOT:'如果您需要對行程進行任何更改，請隨時點擊下方的按鈕。修改訂單'"
+2026-02-11,500000987318394,2862217204651706952,C,kr,改签,"2026-02-11 16:44:52 CUSTOMER:'렌터카 예약 정보를 어떻게 확인할 수 있나요?'
+2026-02-11 16:44:54 ROBOT:'현재 예약 1400822574887360의 차량 유형은 다음과 같습니다. 차량 유형: Kia Seltos변속기: 자동 변속기좌석 수: 5수화물 수용: 2
+자세한 내용은 예약 상세 페이지에서 확인해 주세요.
+Tips: 렌터카 지점에서 동일 모델이 아닌 유사한 차량이 제공할 수 있습니다.'
+2026-02-11 16:45:19 CUSTOMER:'시간변경'
+2026-02-11 16:45:31 ROBOT:'아래 버튼을 눌러 예약 변경을 시도하실 수 있습니다. 새로운 예약에 대한 결제가 완료되면 기존 예약은 자동으로 취소됩니다. 
+예약 변경하기
+
+팁:
+지점 및 차량 종류를 검색·확인하신 후, 운전자 정보를 다시 입력하시고 새로운 예약을 진행해 주시기 바랍니다. 새로운 예약의 요금은 페이지에 표시된 정보에 따라 적용됩니다. 자세한 정책은 예약 상세 페이지에서 확인해 주세요.
+인수 및 반납 시간은 지점 영업시간 내에 이루어져야 합니다.'"
+2026-02-11,800000985179027,-7985650926323601177,C,en,改签,"2026-02-11 02:51:45 CUSTOMER:'regard to my car rental booking with reference no.1433808988093275. i would like to request that the rented car be equipped with snow tyres, so that i can travel to the snow region in japan.'
+2026-02-11 02:51:47 ROBOT:'Your booking has been confirmed.  If you need to make changes,you can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page. Or you can also contact the store during business hours to discuss the matter.  
+If the modification is unsuccessful, you may consider cancel and rebook. After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+For more information please refer to Booking Details'"
+2026-02-11,700000986209814,-7985650926323601177,C,en,改签,"2026-02-11 05:50:12 CUSTOMER:'i want to delay the vehicle drop-off time.'
+2026-02-11 05:50:14 ROBOT:'Your booking has been confirmed.  If you need to make changes,you can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page. Or you can also contact the store during business hours to discuss the matter.  
+If the modification is unsuccessful, you may consider cancel and rebook. After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+For more information please refer to Booking Details'"
+2026-02-11,700000987188659,2862217204651706952,C,kr,改签,"2026-02-11 17:37:23 CUSTOMER:'보증금은 언제 돌려받나요?'
+2026-02-11 17:37:31 ROBOT:'현재 예약 1400822659375980은 (는) 완료되었습니다. 
+보증금은 대여료 + MYR 300 (약 KRW 111,056)로 예상되며, 지점에서 사전 승인이 이루어질 것입니다. 차량 반환 후 30-60일 이내에 사전 승인이 해제될 것으로 예상되며, 교통 정책 위반 여부를 확인할 시간을 두게 됩니다. SMS 알림을 받지 않으므로 신용카드 한도가 복원되었는지 확인해 주세요
+Tips:
+보증금은 실제 결제가 아닌 사전 승인(pre-authorization) 차감이므로, 신용카드 한도가 해제되었는지 확인하시길 권해 드립니다.
+'
+2026-02-11 17:38:15 CUSTOMER:'꼭60일까지 기다려야하나요?'
+2026-02-11 17:38:28 ROBOT:'현재 예약 1400822659375980은(는) 완료되었습니다.차량을 픽업하기 늦어질 경우 예정된 차량 인수 시간 전에 지점(또는 Trip.com)으로 연락해 주십시오. 그렇지 않으면 차량이 이용 불가능할 수 있습니다. 가능하면 시간을 맞추어 도착하는 것이 좋습니다. 미리 알려드리지만, 지점은 사용하지 않은 시간에 대해 환불을 제공하지 않습니다. 요금에 대한 분쟁을 피하기 위해 차량 인수 및 차량 반납 시간을 대여 계약서에서 신중히 확인하고, 계약을 체결하기 전에 총 요금을 추정해 주십시오.다른 차량 대여 예약에 대해 문의하시려면, 정확한 정보를 제공드릴 수 있도록, 내 예약에서 해당 예약을 선택해 주시기 바랍니다.""'
+2026-02-11 17:38:55 CUSTOMER:'과다 청구되었습니다.'
+2026-02-11 17:39:15 ROBOT:'해당 예약에서 알 수 없는 요금이 발생한 경우, 아래 연락처를 통해 추가 도움을 받으실 수 있습니다.
+인수 지점 연락처: 60-129695772
+반납 지점 연락처: 60-129695772
+'
+2026-02-11 17:40:12 CUSTOMER:'보증금반환을꼭60일기다려야하나요?'
+2026-02-11 17:40:18 ROBOT:'According to the cancellation policy, if you request to cancel the booking due to time change, KRW 162686.00 (the penalty fee) will be charged.
+Between Booking confirmation and 1:30 PM, Dec 30, 2025
+Between Booking confirmation and the pick-up time	Cancellation will incur a charge equivalent to 50% of the rental fee
+81343KRW
+After 1:30 PM, Dec 30, 2025
+After the pick-up time	Cancellation will incur a charge equivalent to the total rental fee
+162686KRW
+Note: All times are in local time.
+
+If you want to cancel the booking now, please select the following button.
+Cancel BookingThe deposit is expected to be the rental fee + MYR 300 (approx. KRW 111,056) , and it will be preauthorized at the branch. The preauthorization is expected to be released within 30-60 days after the car is returned, allowing time to check for any traffic violations. You wont receive an SMS notification, so please check if your credit card limit has been restored'
+2026-02-11 17:42:51 CUSTOMER:'상담원 연결'
+2026-02-11 17:42:53 AGENT:'고객님의 여정과 함께하는 트립닷컴 렌터카 고객만족부서 상담사 trip.com_lucy입니다. 무엇을 도와드릴까요?'
+2026-02-11 17:43:03 AGENT:'안녕하세요 고객님.'
+2026-02-11 17:43:30 CUSTOMER:'차량보증금은 언제돌려받나요?60일기다리나요'
+2026-02-11 17:43:51 AGENT:'문의하려는 예약을 확인하세요. 자세한 사항 확인을 위해, 사용 중인 트립닷컴 앱이 최신 버전인지 꼭 확인하세요.'
+2026-02-11 17:44:03 CUSTOMER:'네, 맞아요'
+2026-02-11 17:44:19 AGENT:'보증금은 일반적으로 차량 반납 후 30-60일 사이에 반환됩니다.'
+2026-02-11 17:44:33 AGENT:'만약 60일이 지나도 반환이 안되시는 경우 재차 문의 부탁드립니다.'
+2026-02-11 17:44:44 CUSTOMER:'30일 이내에 반환된다해서'
+2026-02-11 17:44:57 CUSTOMER:'꼭60일을 채우나요'
+2026-02-11 17:45:08 AGENT:'네 고객님,죄송스럽지만 시간 양해 부탁드립니다.'
+2026-02-11 17:45:23 CUSTOMER:'알곘습니다'
+2026-02-11 17:45:23 AGENT:'보증금 취소 시 따로 알림이 없기 때문에 고객님께서 직접 한도가 복구되었는지 확인 부탁드립니다.'
+2026-02-11 17:45:59 AGENT:'추가 문의 사항 더 있으신가요?'
+2026-02-11 17:46:23 CUSTOMER:'아직안되서 연락한겁니다 내가사용한렌터카가 보증금반환이빠르다해서 선택한거거든요'
+2026-02-11 17:46:36 AGENT:'네 고객님,확인 감사드립니다.'
+2026-02-11 17:46:51 AGENT:'60일까지 반환이 안되시는 경우 문의 부탁드리겠습니다.'
+2026-02-11 17:47:04 CUSTOMER:'네'
+2026-02-11 17:47:06 AGENT:'양해해 주셔서 감사드립니다.'
+2026-02-11 17:47:10 AGENT:'추가 문의 사항 있으신가요?'
+2026-02-11 17:47:31 CUSTOMER:'없습니다'
+2026-02-11 17:47:44 AGENT:'좋은 하루 되세요 고객님.'
+2026-02-11 17:47:46 AGENT:'추가 문의 사항이 없으실 경우 상담 종료하도록 하겠습니다. 궁금하신 사항이 있으실 경우 언제든지 문의 부탁드립니다. 지금까지 트립닷컴 상담사 안민서이었습니다. 감사합니다.한국어 사이트 (https://kr.trip.com)에서 1:1 온라인 채팅을 이용해주세요.'
+2026-02-11 17:47:47 AGENT:'트립닷컴을 이용해 주셔서 감사드리며, 추가 문의가 있는 경우 언제든지 연락 부탁드립니다.'"
+2026-02-11,800000986631324,-7985650926323601177,C,en,改签,"2026-02-11 22:40:43 CUSTOMER:'how to add an infant/baby/booster seat?'
+2026-02-11 22:40:44 ROBOT:'The current booking 1688895706623055 is confirmed.
+If you want to add baby seats, please kindly contact the rental store.
+Contact the Pick-up Branch: 61-458183293
+
+'
+2026-02-11 22:42:22 CUSTOMER:'is there anywhere online where i can contact the branch to include a baby seat pls'
+2026-02-11 22:42:27 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on theBooking details page.
+You can also apply for free cancellation of your current order before2026-03-16 13:30:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 22:43:26 CUSTOMER:'can i spk to a human pls'
+2026-02-11 22:43:26 ROBOT:'I am always happy to help you. Please let me know if you have any questions.'
+2026-02-11 22:43:38 CUSTOMER:'transfer to an agent'
+2026-02-11 22:43:40 AGENT:'welcome to trip.com. my name is trip.com_jason jiang, i am glad to be of your assistance today.'
+2026-02-11 22:43:48 CUSTOMER:'Hi again Jason'
+2026-02-11 22:43:52 AGENT:'hi'
+2026-02-11 22:43:58 CUSTOMER:'I have just made a new booking Booking no.1688895706623055'
+2026-02-11 22:44:03 AGENT:'Ok'
+2026-02-11 22:44:14 CUSTOMER:'i could not find a place where to request a baby seat.'
+2026-02-11 22:44:21 CUSTOMER:'how can i make a request for it pls'
+2026-02-11 22:44:40 AGENT:'we will contact the supplier and feed back to you in 24 hours, please kindly wait for our email. just like last time.'
+2026-02-11 22:44:59 CUSTOMER:'thanks indeed.  pls let them know this is very important.'
+2026-02-11 22:45:10 AGENT:'Sure. We will'
+2026-02-11 22:45:13 CUSTOMER:'i chose a different rental company this time hoping thaty they have'
+2026-02-11 22:45:20 CUSTOMER:'child is 18mo\'
+2026-02-11 22:45:30 AGENT:'Yes, I remember.'
+2026-02-11 22:45:39 CUSTOMER:'Thanks. you are super efficient'
+2026-02-11 22:45:52 AGENT:'aha, you are welcome. please kindly wait for our feedback.'
+2026-02-11 22:45:56 AGENT:'thank you for your patience, is there any other question this moment?'
+2026-02-11 22:46:20 CUSTOMER:'none ty. hope this works out cos i got a better car for a cheaper price :)'
+2026-02-11 22:46:34 AGENT:'you are welcome.i hope you have a nice trip! bye.'"
+2026-02-11,600000987525522,-7985650926323601177,C,en,改签,"2026-02-11 10:20:16 CUSTOMER:'the email on the booking is incorrect...'
+2026-02-11 10:20:24 ROBOT:'According to the cancellation policy, you can apply for a free cancellation for this booking before the latest cancellation time and then make a new reservation if needed. If you are certain about canceling the booking, you can submit the request on the booking details page. The price for the new reservation will be based on the information displayed on the page.
+If you need to modify driver details or pick-up/drop-off times or locations, please cancel your booking and make a new one.
+
+If you have received a charge notification, the refund related to the booking cancellation (subject to the cancellation policy) will be returned directly. It usually takes 1-17 working days for the refund to be processed, but the actual time may vary depending on the card issuer.
+If your account has not been charged, no refund will be involved.Tips:Please note that your current order cannot be modified. If it is eligible for free cancellation, we recommend canceling it and rebooking at the current rate.
+
+
+'
+2026-02-11 10:20:47 CUSTOMER:'i just need to update my email address'
+2026-02-11 10:20:49 ROBOT:'Your booking has been confirmed.  If you need to make changes,you can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page. Or you can also contact the store during business hours to discuss the matter.  
+If the modification is unsuccessful, you may consider cancel and rebook. After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+For more information please refer to Booking Details'
+2026-02-11 10:22:38 CUSTOMER:'can you help me contact the branch please'
+2026-02-11 10:22:40 ROBOT:'You can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page. 
+If the policy does not allow, we suggest applying for a cancellation and rebooking before deadline.'
+2026-02-11 10:22:45 CUSTOMER:'transfer to an agent'
+2026-02-11 10:22:47 AGENT:'welcome to trip.com. my name is alexon. h, i am glad to be of your assistance today.'
+2026-02-11 10:22:55 AGENT:'please confirm the booking you want to ask about. to view details, please ensure you are using the latest version of the trip.com app.'
+2026-02-11 10:22:56 CUSTOMER:'hi'
+2026-02-11 10:23:00 CUSTOMER:'current consulting order'
+2026-02-11 10:23:02 AGENT:'hi there'
+2026-02-11 10:23:04 AGENT:'thank you for your confirmation'
+2026-02-11 10:23:26 CUSTOMER:'i notice that my email of that order is incorrect'
+2026-02-11 10:23:41 AGENT:'Well received your request'
+2026-02-11 10:24:15 CUSTOMER:'Urgently need to change that, my booking information and personal info have been sent to somebody...'
+2026-02-11 10:24:29 AGENT:'Allow me to check it for you'
+2026-02-11 10:24:53 CUSTOMER:'Please help me contact Sixt and resend the car rental contract/agreements'
+2026-02-11 10:25:10 AGENT:'Dont worry i will do mt best to assist'
+2026-02-11 10:25:10 CUSTOMER:'I have already returned the car btw'
+2026-02-11 10:25:15 AGENT:'please kindly wait one to two minute. thank you.'
+2026-02-11 10:27:44 AGENT:'it takes a little longer to check. thank you for your patience.'
+2026-02-11 10:28:18 CUSTOMER:'Ok'
+2026-02-11 10:28:25 AGENT:'Sorry for keeping you waiting'
+2026-02-11 10:28:29 AGENT:'As per checking'
+2026-02-11 10:28:39 AGENT:'We are unable to change the email for you'
+2026-02-11 10:28:53 AGENT:'However we kindly suggest you to cancel this booking'
+2026-02-11 10:29:03 AGENT:'Since it is still within the free cancellation period'
+2026-02-11 10:29:32 AGENT:'We would be limited to modify the information for rental booking'
+2026-02-11 10:29:48 AGENT:'Please accept my very sincere personal apologies'
+2026-02-11 10:29:56 AGENT:'i hope i could be more help in this case'
+2026-02-11 10:30:20 CUSTOMER:'What do you mean? How do i cancel? I have already picked up the car and returned it'
+2026-02-11 10:30:39 AGENT:'You could kindly cancel the booking in your booking detail page'
+2026-02-11 10:30:46 AGENT:'Roger that'
+2026-02-11 10:31:05 AGENT:'Let me see what i can do for you'
+2026-02-11 10:31:15 AGENT:'Please give me one to two minutes'
+2026-02-11 10:31:45 CUSTOMER:'I need to update the email please. Please contact Sixt for me, I need that rental agreement and they will send me car return receipt, i need that.'
+2026-02-11 10:31:55 AGENT:'May I have yuor correct email address please'
+2026-02-11 10:32:41 CUSTOMER:'mailtoashri@gmail.com'
+2026-02-11 10:32:46 AGENT:'Thank you very much'
+2026-02-11 10:32:56 AGENT:'I would not be able to modify the email for you'
+2026-02-11 10:33:11 AGENT:'However i would be able to directly provide them with this email address'
+2026-02-11 10:33:19 AGENT:'we will prioritize your concerns and make every effort to assist you.'
+2026-02-11 10:33:24 AGENT:'I will forward your request to our relevant team, who will further verify it.'
+2026-02-11 10:33:29 AGENT:'We will proactively contact you once there is an update.'
+2026-02-11 10:33:51 AGENT:'i will keep you updated on the progress and get back to you as soon as possible'
+2026-02-11 10:34:00 AGENT:'i will personally ensure that your issue is addressed promptly'
+2026-02-11 10:34:17 CUSTOMER:'I need that resolved asap because the car has been returned'
+2026-02-11 10:34:23 AGENT:'Will do'
+2026-02-11 10:34:35 AGENT:'We will try to resolve this matter for you as quickly as possible'
+2026-02-11 10:34:50 CUSTOMER:'And i dont have any rental contract atm because the email on record is wrong'
+2026-02-11 10:35:10 AGENT:'I will forward your email to them rioght now'
+2026-02-11 10:35:15 AGENT:'I will forward your email to them right now'
+2026-02-11 10:35:19 CUSTOMER:'They should also re-send the car rental contract to the correct email address'
+2026-02-11 10:35:35 AGENT:'And they will resent you the documents you needed'
+2026-02-11 10:35:43 AGENT:'Well received'
+2026-02-11 10:35:46 CUSTOMER:'Who is “them”? Sixt? May i know are you forwarding to their CS email or?'
+2026-02-11 10:35:58 AGENT:'Yes the rental branch'
+2026-02-11 10:36:13 CUSTOMER:'If its general CS i think it may take long for them to reply/act on that'
+2026-02-11 10:36:23 AGENT:'No worries'
+2026-02-11 10:36:30 AGENT:'I will urge this matter for you'
+2026-02-11 10:36:35 AGENT:'Please do not worry'
+2026-02-11 10:36:42 AGENT:'please rest assured that we are doing everything we can to resolve this issue as quickly as possible'
+2026-02-11 10:36:59 CUSTOMER:'When should i expect the update?'
+2026-02-11 10:37:13 AGENT:'From both us and the rental company directly'
+2026-02-11 10:37:24 AGENT:'We will try to solve this for you as quicklly as possible'
+2026-02-11 10:37:57 CUSTOMER:'Since i dont want them to send anymore emails to the incorrect email address as i am also expecting the return receipt from them in email'
+2026-02-11 10:38:07 AGENT:'Roger that'
+2026-02-11 10:39:02 AGENT:'other than this, is there anything else that i could assist you with? i would be glad to help.'
+2026-02-11 10:40:10 CUSTOMER:'I need an ETA on when will this be resolved (when i am going to receive 1/ the car rental contract (should be already available) 2/ the car return receipt (should be available very soon)'
+2026-02-11 10:40:43 AGENT:'We will try to solve this matter within 1-2 hours'
+2026-02-11 10:41:02 AGENT:'You should be receiving the things you neede from them directly'
+2026-02-11 10:41:32 AGENT:'I will try to urge this matter please be rest assured'
+2026-02-11 10:41:36 CUSTOMER:'Ok may I have an update from Trip.com when this is resolved as well?'
+2026-02-11 10:41:47 AGENT:'Yes'
+2026-02-11 10:41:52 AGENT:'Of course'
+2026-02-11 10:42:09 AGENT:'We will update you when this matter was resolved as well'
+2026-02-11 10:42:22 CUSTOMER:'Via the app here or in email?'
+2026-02-11 10:42:34 AGENT:'You should expect email from us'
+2026-02-11 10:42:42 CUSTOMER:'Ok thanks'
+2026-02-11 10:42:48 AGENT:'is there anything else that i can assist you with?'
+2026-02-11 10:43:09 CUSTOMER:'That would be all. Just need to have the email updated and re-send any previous emails from Sixt'
+2026-02-11 10:43:21 AGENT:'Well received'
+2026-02-11 10:43:33 AGENT:'it is my absolute pleasure to assist'
+2026-02-11 10:43:36 CUSTOMER:'Thanks again'
+2026-02-11 10:43:38 AGENT:'if you need help in the future, i'm here for you. take care and have a good one.'"
+2026-02-11,300000987265212,-7160349369495170942,A,hk,改签,"2026-02-11 17:58:21 CUSTOMER:'{""btype"":""1"",""ext"":{""channel"":""im_customer"",""scene"":""to-operation""},""height"":""180"",""originImageSize"":"""",""thumbUrl"":""https:\/\/dimg04.tripcdn.com\/images\/1mq35224x98bca9wh2E2B_Z_0_540.jpg"",""url"":""https:\/\/dimg04.tripcdn.com\/images\/1mq35224x98bca9wh2E2B.jpg"",""width"":""83""}'
+2026-02-11 17:58:21 ROBOT:'您好，請先描述下您圖片的具體問題，我們優先爲您解決問題。'
+2026-02-11 17:58:29 CUSTOMER:'請問這個可以選不同飯嗎'
+2026-02-11 17:58:32 ROBOT:'
+類型	計數
+成人數量	2
+兒童人數	0
+行李數量	行李（＞24）： 2。或行李（＜24）： 4
+您也可以查看預訂詳情頁面以獲取其他詳細資訊。https://dimg04.c-ctrip.com/images/0B70c12000fn6spnp1DA8.png'
+2026-02-11 17:58:49 CUSTOMER:'例如6天五夜，三天住市區兩天住沙灘'
+2026-02-11 17:58:53 ROBOT:'目前的預訂已完成，無法更改。如果您想查詢其他預訂，請點擊 我的訂單 選擇您的預訂以進行諮詢。
+'
+2026-02-11 17:58:57 CUSTOMER:'轉人工'
+2026-02-11 17:59:15 AGENT:'您好！歡迎使用trip.com在線客服！我是kelly. z ，很高興為您服務。'
+2026-02-11 17:59:26 CUSTOMER:'請問這個功能是可以選住不同飯嗎'
+2026-02-11 17:59:35 CUSTOMER:'不同飯店'
+2026-02-11 18:00:37 AGENT:'請確認您想查詢之訂單。如需查看詳情，請確保您正使用最新版本之 trip.com app。'
+2026-02-11 18:01:01 AGENT:'是的'
+2026-02-11 18:01:10 AGENT:'您可以根據訂單頁面展示的酒店選擇'
+2026-02-11 18:01:24 CUSTOMER:'那怎麼會顯示我訂房日期有重複'
+2026-02-11 18:01:56 CUSTOMER:'5/6～5/11的飯店第一間我要住3天'
+2026-02-11 18:02:17 CUSTOMER:'第一間日期是要選5/6～5/9嗎'
+2026-02-11 18:02:31 CUSTOMER:'第二間日期選5/9～5/11'
+2026-02-11 18:02:33 CUSTOMER:'這樣對嗎'
+2026-02-11 18:02:55 AGENT:'是的'
+2026-02-11 18:04:18 CUSTOMER:'那為什麼會有重疊提醒'
+2026-02-11 18:04:22 CUSTOMER:'😱😱'
+2026-02-11 18:05:40 AGENT:'目前正在為您查詢，需要大約3-7分鐘，請您稍等'
+2026-02-11 18:11:02 CUSTOMER:'{""btype"":""1"",""ext"":{""channel"":""im_customer"",""scene"":""to-operation""},""height"":""75"",""originImageSize"":"""",""originImageUrl"":"""",""thumbUrl"":""https:\/\/dimg04.tripcdn.com\/images\/1mq15224x98bci8me57B4_Z_540_0.jpg"",""url"":""https:\/\/dimg04.tripcdn.com\/images\/1mq15224x98bci8me57B4.jpg"",""width"":""180""}'
+2026-02-11 18:11:19 AGENT:'收到的'
+2026-02-11 18:11:30 CUSTOMER:'那是什麼問題'
+2026-02-11 18:13:04 AGENT:'感謝您的耐心等待，這邊目前查詢如果您是5/9退房，5/9入住，正常來說是可以預訂的。您可以將該產品分享給我們嗎？這邊聯繫相關部門核實'
+2026-02-11 18:13:21 CUSTOMER:'我還沒訂房'
+2026-02-11 18:13:31 CUSTOMER:'因為試過好幾次都顯示這樣'
+2026-02-11 18:13:48 CUSTOMER:'行程也越來越貴了'
+2026-02-11 18:13:59 AGENT:'明白的，請問您現在是在看旅行團的產品對嗎？'
+2026-02-11 18:14:03 CUSTOMER:'對'
+2026-02-11 18:14:32 CUSTOMER:'我ㄧ直卡在訂房這裡'
+2026-02-11 18:14:42 CUSTOMER:'因為我要買機票+住'
+2026-02-11 18:15:31 AGENT:'那您這個界面是機+酒的預訂頁面還是旅行團裡面的預訂頁面呢？'
+2026-02-11 18:16:26 AGENT:'這邊看旅行團的產品不需要填寫航班信息'
+2026-02-11 18:16:55 AGENT:'您現在是卡在 機+酒的預訂頁面 的酒店預訂吧？'
+2026-02-11 18:18:57 CUSTOMER:'{""btype"":""1"",""ext"":{""channel"":""im_customer"",""scene"":""to-operation""},""height"":""180"",""originImageSize"":"""",""originImageUrl"":"""",""thumbUrl"":""https:\/\/dimg04.tripcdn.com\/images\/1mq4t224x98bcmsnw9C83_Z_0_540.jpg"",""url"":""https:\/\/dimg04.tripcdn.com\/images\/1mq4t224x98bcmsnw9C83.jpg"",""width"":""83""}'
+2026-02-11 18:19:08 CUSTOMER:'機+住'
+2026-02-11 18:19:37 CUSTOMER:'幫我看一下什麼問題，會重疊中斷？'
+2026-02-11 18:20:16 AGENT:'了解了，由於這邊是團隊遊部門，無法回答您咨詢的機+住問題，為了給您更專業準確的回覆，這邊為您轉接至對應的機+住處理部門，請您稍等一分鐘'
+2026-02-11 18:20:24 CUSTOMER:'好'"
+2026-02-11,300000987331103,-7985650926323601177,C,en,改签,"2026-02-11 18:44:46 CUSTOMER:'i want to delay the vehicle drop-off time.'
+2026-02-11 18:44:48 ROBOT:'Your booking 1688893985407170 has been confirmed. We recommend contacting the store during business hours to discuss the matter.
+Contact the Pick-up Branch: 27-324369500
+Business hours: 05:30-22:00(Local Time)Contact the Drop-off Branch: 27-324369500
+Business hours: 05:30-22:00(Local Time)
+ 
+You can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the store agrees to the modification, please have them assist you directly. If the store does not agree to your request, we recommend applying for a cancellation with penalties before 2026-01-14 17:00:00 (Local Time). Thank you for your understanding.
+Cancel Booking'
+2026-02-11 18:48:43 CUSTOMER:'nobody picks up the phone and there is modify button'
+2026-02-11 18:48:45 ROBOT:'If you need to make changes,you can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the modification is unsuccessful,we recommend that you try contacting the store multiple times during business hours.
+Contact the Pick-up Branch: 27-324369500
+Business hours: 05:30-22:00(Local Time)Contact the Drop-off Branch: 27-324369500
+Business hours: 05:30-22:00(Local Time)
+ 
+If you are still unable to reach them, we suggest applying for a cancellation with penalties and rebooking before 2026-01-14 17:00:00 (Local Time). Thank you for your understanding.
+Cancel Booking'"
+2026-02-11,700000986325160,2862217204651706952,C,kr,改签,"2026-02-11 08:51:16 CUSTOMER:'렌트 기간은 어떻게 계산되나요?'
+2026-02-11 08:51:16 ROBOT:'렌터카 요금은 일반적으로 1일 단위로 계산됩니다. 24시간 미만 이용 시에도 1일 요금이 적용됩니다. 예를 들어, 49시간 이용 시 3일치 요금이 부과됩니다.'
+2026-02-11 08:52:35 CUSTOMER:'차량 인수시간을 항공기 도착시간으로 예약을 했는데 수화물 찾는시간과 렌트회사까지 이동시간까지 하면 인수기간보다 좀 늦을것 같습니다.'
+2026-02-11 08:52:46 ROBOT:'아래 버튼을 클릭하여 예약을 수정해 보세요. 새로운 예약의 결제를 완료하면 원래 예약은 자동으로 취소됩니다.
+Modify Booking
+
+팁:
+지점과 차량 유형을 검색하고 확인한 후 운전자의 정보를 다시 입력하여 새로운 주문을 할 수 있습니다.\n새로운 예약의 가격은 페이지에 표시된 정보를 기준으로 합니다. 자세한 정책은 페이지에서 확인해 주시기 바랍니다예약 세부 정보 페이지.
+픽업 및 반납 시간은 점포의 영업 시간 내에 있어야 합니다.
+현재 주문에 대해 무료 취소를 신청할 수도 있습니다2026-02-12 12:30:00 (현지 시간). 성공적인 취소 후 환불은 7-30 영업일 이내에 처리될 예정입니다.'"
+2026-02-11,100000987169652,-7985650926323601177,C,en,改签,"2026-02-11 00:42:46 CUSTOMER:'are there any license/id/age requirements?'
+2026-02-11 00:42:47 ROBOT:'Please select the booking you want to ask about:'
+2026-02-11 00:42:55 ROBOT:'When you pick up the vehicle, you need to provide a valid ID, main driver's license, credit card, and the pick-up voucher. The car rental company will have certain requirements for your driver's license and credit card. You can refer to the detailed instructions on the product page.
+If you have not made a booking yet, please go to the home page to search for a vehicle. You can check more information on the pick-up material and credit card requirements. We suggest that you can use the license with the same nationality as your passport. If the nationality of the driving license and passport are different, the car rental company may refuse the booking.https://dimg04.c-ctrip.com/images/0B76c12000fn3bowjC654.jpg
+If you have already made a booking, you can select the corresponding booking at the ""Select bookings"" section located at the bottom left corner of the current chat page. Or you can select the following button to search your booking by using the email address you left when booking or the booking No. and the PIN code.Search Bookingshttps://dimg04.c-ctrip.com/images/0B74512000fn3ixqr215D.jpg
+
+ 
+'
+2026-02-11 00:43:51 CUSTOMER:'want to change man driver'
+2026-02-11 00:43:53 ROBOT:'Please select the booking you want to ask about:'
+2026-02-11 00:44:05 CUSTOMER:'booking no.:1688895696161565,chitose,mar 7, 2026'
+2026-02-11 00:44:05 ROBOT:'Hi, what question do you have related to this booking?'
+2026-02-11 00:44:22 CUSTOMER:'when can i get my deposit back?'
+2026-02-11 00:44:23 ROBOT:'The current booking (1688895696161565) is being processed for payment.
+This branch does not require a deposit.'"
+2026-02-11,800000985182296,-7985650926323601177,C,en,改签,"2026-02-11 03:00:54 CUSTOMER:'as the system does not have an input or remark place to denote our message to the car rental provider.'
+2026-02-11 03:00:59 ROBOT:'Your booking has been confirmed.  If you need to make changes,you can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page. Or you can also contact the store during business hours to discuss the matter.  
+If the modification is unsuccessful, you may consider cancel and rebook. After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+For more information please refer to Booking Details'"
+2026-02-11,500000987674253,-7985650926323601177,C,en,改签,"2026-02-11 20:55:17 CUSTOMER:'modify booking of the car'
+2026-02-11 20:55:19 ROBOT:'Your booking can be modified. Please refer to the booking details page for specific policies.'
+2026-02-11 20:55:29 CUSTOMER:'human'
+2026-02-11 20:55:31 AGENT:'welcome to trip.com. my name is trip.com_jason jiang, i am glad to be of your assistance today.'
+2026-02-11 20:55:38 AGENT:'hello, how may i help?'
+2026-02-11 20:55:47 CUSTOMER:'Hello my name is Julius'
+2026-02-11 20:55:54 AGENT:'Hi Julius'
+2026-02-11 20:56:03 CUSTOMER:'regarding Booking no.1688895706599181'
+2026-02-11 20:56:06 AGENT:'Ok'
+2026-02-11 20:58:54 CUSTOMER:'I have just booked a car at Kansai airport. I supposed that the airport rental car branches close at 8pm so I have adapted the pick up time to morning therefore. But that is not an ideal time for me. Now after I have booked the car the information obtained by Trip.com indicates me that the car rental branch shoild be open 24/7. In such case I would like to modify my booking to pick the car after arrival. Is that possible please ?'
+2026-02-11 20:59:31 AGENT:'i'm checking.'
+2026-02-11 21:00:00 AGENT:'You could kindly cancel this booking for full refund and then rebook with the new pick up time'
+2026-02-11 21:00:36 CUSTOMER:'Does the refund include extras like additional insurance please as well ?'
+2026-02-11 21:02:22 CUSTOMER:'Would you also kindly help me with confirming if the airport car rental branch is really open 24/7  in this case ?'
+2026-02-11 21:02:43 AGENT:'Ok'
+2026-02-11 21:02:46 AGENT:'we will contact the supplier and feed back to you in 24 hours, please kindly wait for our email.'
+2026-02-11 21:02:46 CUSTOMER:'Sure'
+2026-02-11 21:03:20 AGENT:'What time do you want to change to?'
+2026-02-11 21:04:12 AGENT:'Please kindly provide an exact time'
+2026-02-11 21:05:00 CUSTOMER:'Pick up April 4  00.30. Return April 8 23.30.'
+2026-02-11 21:05:25 AGENT:'Well noted'
+2026-02-11 21:05:38 AGENT:'Please kindly wait for our feedback'
+2026-02-11 21:06:44 AGENT:'thank you for your patience, is there any other question this moment?'
+2026-02-11 21:06:48 CUSTOMER:'Thank you. So I wait for both information. Regarding branch hours and refund of extras in case of cancellation ? Right ?'
+2026-02-11 21:07:50 AGENT:'We will check if they could just change the time as you requested. And the promo code is a public promo, so I'm afraid it will be invalid if you cancel this booking.'
+2026-02-11 21:08:05 AGENT:'We hope the shop can change the time for you directly'
+2026-02-11 21:08:26 AGENT:'They opens for 24 hours as checked'
+2026-02-11 21:09:02 CUSTOMER:'Understand. Thank you Jason. Have a good one.'
+2026-02-11 21:09:09 AGENT:'you are welcome.'
+2026-02-11 21:09:17 AGENT:'please wait for our feedback. i hope you have a nice trip! bye.'
+2026-02-11 21:09:36 CUSTOMER:'Thank you. Bye'"
+2026-02-11,600000988394481,-7985650926323601177,C,en,改签,"2026-02-11 19:23:35 CUSTOMER:'i want to delay the vehicle drop-off time.'
+2026-02-11 19:23:37 ROBOT:'Your booking 1167727194827882 has been confirmed. We recommend contacting the store during business hours to discuss the matter.
+Contact the Pick-up Branch: 61-394715655
+Business hours: 08:00-17:00(Local Time)Contact the Drop-off Branch: 61-394715655
+Business hours: 08:00-17:00(Local Time)
+ 
+You can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the store agrees to the modification, please have them assist you directly. If the store does not agree to your request, we recommend applying for a cancellation with penalties before 2026-02-11 12:00:00 (Local Time). Thank you for your understanding.
+Cancel Booking'"
+2026-02-11,700000986851581,-7985650926323601177,C,en,改签,"2026-02-11 14:14:49 CUSTOMER:'hi want to delay the pickup time'
+2026-02-11 14:14:51 ROBOT:'Your booking has been confirmed. If you need to pick up the car later, the unused rental fees are generally non-refundable. You can visit the booking details page to check if the policy can be changed or contact the store during business hours to discuss the matter. 
+You can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the store agrees to the modification, please have them assist you directly. If the store does not agree to your request, we recommend applying for a cancellation before deadline.
+Tips:Pick-up and drop-off times must be within the store's business hours.'"
+2026-02-11,800000986499444,-7985650926323601177,C,en,改签,"2026-02-11 21:11:10 CUSTOMER:'i want to delay the vehicle drop-off time.'
+2026-02-11 21:11:12 ROBOT:'If you need to modify the pick-up and drop-off time, car model, or driver, you can click ""Modify order"" on the order details page. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page. Please kindly check detailed policy on the Booking details page.
+For the current booking 1688895706603894, you can try to submit a cancellation request on the booking details page.Tips:According to the cancellation policy, if you cancel the booking, a cancellation fee will be charged. Please kindly check the information provided on the booking details page or check the policy for accurate details.'"
+2026-02-11,100000987868294,-7985650926323601177,C,en,改签,"2026-02-11 13:53:48 CUSTOMER:'i want to delay the vehicle drop-off time.'
+2026-02-11 13:53:49 ROBOT:'Your booking has been confirmed.  If you need to make changes,you can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page. Or you can also contact the store during business hours to discuss the matter.  
+If the modification is unsuccessful, you may consider cancel and rebook. After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+For more information please refer to Booking Details'
+2026-02-11 13:54:12 CUSTOMER:'can i extend my rental'
+2026-02-11 13:54:15 ROBOT:'Your booking is confirmed. Changing the rental period may incur additional fees.
+You may check your booking details page to see if changes are allowed, or contact the store during business hours to discuss.
+If a ""Modify order"" button is available on the order details page, you can try modifying it. Once you pay for the new booking, the original one will be cancelled automatically. The new booking price follows the page display.
+If the store approves the change, they can assist you directly. If not, we suggest you cancel the booking before the deadline.
+Tips:Pick-up and drop-off times must be within the store's business hours.'
+2026-02-11 13:54:53 CUSTOMER:'how do i extend'
+2026-02-11 13:54:56 ROBOT:'Your booking has been confirmed. If you need to drop off the car later, there may be issues related to fees. We recommend contacting the store during business hours to discuss the matter.
+You can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the store agrees to the modification, please have them assist you directly. If the store does not agree to your request, we recommend applying for a cancellation before deadline.
+Tips:Pick-up and drop-off times must be within the store's business hours.'"
+2026-02-11,800000986527437,-7985650926323601177,C,en,改签,"2026-02-11 21:33:42 CUSTOMER:'is it possible to pickup the car on another day?'
+2026-02-11 21:33:45 ROBOT:'Your booking is confirmed. Changing the rental period may incur additional fees.
+You may check your booking details page to see if changes are allowed, or contact the store during business hours to discuss.
+If a ""Modify order"" button is available on the order details page, you can try modifying it. Once you pay for the new booking, the original one will be cancelled automatically. The new booking price follows the page display.
+If the store approves the change, they can assist you directly. If not, we suggest you cancel the booking before the deadline.
+Tips:Pick-up and drop-off times must be within the store's business hours.'"
+2026-02-11,200000988853682,2862217204651706952,C,kr,改签,"2026-02-11 10:25:28 CUSTOMER:'차량을 빌린 장소와 반납하는 장소가 다른데 추가 비용은 없지요?'
+2026-02-11 10:25:38 ROBOT:'일부 공급엄체는 다른 지점 반납이 가능합니다. 예약 시 반납 지점을 선택하세요.
+
+이용 중에 변경을 원하시면, 주문 상세 페이지에서 ""예약 변경""을 눌러 주세요. 새 예약 결제가 완료되면, 기존 예약은 자동으로 취소됩니다.  
+또한, 최소 24시간 전에 변경 가능 여부와 추가 요금을 확인하시는 것을 권해 드립니다. 일반적으로 추가 편도 요금이 발생하며 지점 정책을 기준으로 합니다.'
+2026-02-11 10:25:56 CUSTOMER:'제가 예약한 것에 추가 요금이 있나요?'
+2026-02-11 10:26:06 ROBOT:'다른 표현으로 질문하거나 아래 질문 중 하나를 선택해 주시기 바랍니다.'
+2026-02-11 10:26:18 CUSTOMER:'상담사 연결 해주세요'
+2026-02-11 10:26:18 ROBOT:'문의하고자 하는 내용을 선택하시려면 아래의 옵션을 이용해 주십시오.'
+2026-02-11 10:26:24 CUSTOMER:'상담원 연결'
+2026-02-11 10:26:26 AGENT:'고객님의 여정과 함께하는 트립닷컴 렌터카 고객만족부서 상담사 trip.com-winnie y입니다. 무엇을 도와드릴까요?'
+2026-02-11 10:26:31 AGENT:'안녕하세요 고객님'
+2026-02-11 10:26:51 CUSTOMER:'안녕하세요 제가 예약한 차량은 차량 빌리는 장소와 반납하는 장소가 다릅니다. 그것에 대한 추가 비용은 없는거죠?'
+2026-02-11 10:27:01 AGENT:'말씀 감사합니다. 문의하신 내용 확인하겠습니다. 잠시만 기다려주세요.'
+2026-02-11 10:27:01 CUSTOMER:'추가 비용도 모두 포함 되어 있는거죠?'
+2026-02-11 10:27:16 AGENT:'확인 과정중 답변이 지연될 수 있는 점 양해 부탁드리겠습니다.'
+2026-02-11 10:27:20 CUSTOMER:'현장에 도착했을때 갑자기 추가 비용을 지불하라는 요청을 받기 싫습니다. 확실하게 확인 하고 싶습니다.'
+2026-02-11 10:27:49 AGENT:'확인 과정중 답변이 지연될 수 있는 점 양해 부탁드리겠습니다.'
+2026-02-11 10:28:57 CUSTOMER:'Okay  Before my arrical, I would lie to confirm whether terhe are any additional fees for a one-way rental(different pick up and return locations)'
+2026-02-11 10:29:01 AGENT:'기다려 주셔서 감사합니다, 문의하신 예약건 확인해보니 반납 수수료가 요금에 이미 포함되어 있는것으로 확인됩니다.'
+2026-02-11 10:29:10 CUSTOMER:'ok i understand. thank you'
+2026-02-11 10:29:15 AGENT:'고객님, 안내드린 내용에 대한 추가 문의 있으실까요?'
+2026-02-11 10:29:18 CUSTOMER:'Just in case,'
+2026-02-11 10:29:27 AGENT:'네 고객님'
+2026-02-11 10:29:30 CUSTOMER:'if rental office ask me, what should I do'
+2026-02-11 10:29:43 AGENT:'네 고객님'
+2026-02-11 10:29:50 CUSTOMER:'Should I pay? or try to contact trip.com?'
+2026-02-11 10:30:17 AGENT:'해당 부분은 바우처에 명시가 되어 있기에 비용은 따로 발생하지 않으며, 혹시라도 중복 결제를 요청하게 된다면 결제 후 저희 측으로 다시 문의해주시기 바랍니다.'
+2026-02-11 10:30:23 CUSTOMER:'ok i see'
+2026-02-11 10:30:24 CUSTOMER:'thank you'
+2026-02-11 10:30:29 AGENT:'고객님, 다른 문의  사항 더 있으신가요?'
+2026-02-11 10:30:33 AGENT:'작게나마 고객님의 문의에 도움을 드릴 수 있어서 다행입니다. 고객님의 소중한 평가를 반영하여 좋은 서비스를 위해 노력할 수 있도록 서비스 만족 평가 부탁드립니다.'
+2026-02-11 10:30:34 CUSTOMER:'can I see the 바우처?'
+2026-02-11 10:30:43 CUSTOMER:'writing about the pay is already included?'
+2026-02-11 10:30:45 AGENT:'바우처는 확정 이메일에 파일로 첨부되어 있습니다.'
+2026-02-11 10:30:49 CUSTOMER:'okay'
+2026-02-11 10:30:51 AGENT:'확정 이메일을 다시 보내드릴까요?'
+2026-02-11 10:30:55 CUSTOMER:'yes please'
+2026-02-11 10:31:06 AGENT:'네 고객님, 수신하실 이메일 주소는 동일하시죠?'
+2026-02-11 10:31:11 CUSTOMER:'it's  already mention about it? one-way rental?'
+2026-02-11 10:31:13 CUSTOMER:'yes'
+2026-02-11 10:31:21 CUSTOMER:'bluedeel@hanmail.net'
+2026-02-11 10:31:22 AGENT:'네 그렇습니다.'
+2026-02-11 10:31:27 CUSTOMER:'ok thanks'
+2026-02-11 10:31:34 AGENT:'네 고객님, 재 발송해드리겠습니다.'
+2026-02-11 10:31:40 CUSTOMER:'thanks'
+2026-02-11 10:31:42 CUSTOMER:'have a good day'
+2026-02-11 10:31:48 AGENT:'작게나마 고객님의 문의에 도움을 드릴 수 있어서 다행입니다. 고객님의 소중한 평가를 반영하여 좋은 서비스를 위해 노력할 수 있도록 서비스 만족 평가 부탁드립니다.'
+2026-02-11 10:31:50 AGENT:'추가 문의 사항이 없으실 경우 상담 종료하도록 하겠습니다. 궁금하신 사항이 있으실 경우 언제든지 문의 부탁드립니다. 지금까지 트립닷컴 상담사 Trip.com-Winnie이었습니다. 감사합니다. 한국어 사이트 (https://kr.trip.com)에서 1:1 온라인 채팅을 이용해주세요.'
+2026-02-11 10:31:59 AGENT:'이메일 재 발송을 해드렸으니 확인해주시기 바랍니다.'
+2026-02-11 10:32:12 CUSTOMER:'i'll check'
+2026-02-11 10:32:15 AGENT:'반납 수수료가 one way fee입니다.'
+2026-02-11 10:32:21 CUSTOMER:'now i can't see'
+2026-02-11 10:32:25 CUSTOMER:'the email yet'
+2026-02-11 10:32:33 CUSTOMER:'are you Korean?'
+2026-02-11 10:32:37 AGENT:'네 그렇습니다.'
+2026-02-11 10:32:37 CUSTOMER:'or translating?'
+2026-02-11 10:32:43 CUSTOMER:'아.. 알겠습니다 한국어로 할게요 ㅋㅋ'
+2026-02-11 10:32:46 CUSTOMER:'아직 메일 안왔어요'
+2026-02-11 10:32:51 AGENT:'네 고객님, 잠시만 기다려 주세요.'
+2026-02-11 10:32:56 AGENT:'확인해보겠습니다.'
+2026-02-11 10:32:58 CUSTOMER:'bluedeel@hanmail.net 여기로 보내신거 맞나요?'
+2026-02-11 10:33:16 CUSTOMER:'아'
+2026-02-11 10:33:20 CUSTOMER:'bluedeel@naver.com'
+2026-02-11 10:33:22 CUSTOMER:'여기로 보냈네요'
+2026-02-11 10:33:24 CUSTOMER:'확인했습니다'
+2026-02-11 10:33:25 CUSTOMER:'수고하세요~'
+2026-02-11 10:33:25 AGENT:'네이버 메일로 보내드렸네요'
+2026-02-11 10:33:28 AGENT:'네 고객님'
+2026-02-11 10:33:32 AGENT:'다른 문의는 없으실까요?'
+2026-02-11 10:33:35 AGENT:'확인되셨다니 다행입니다.'
+2026-02-11 10:33:52 CUSTOMER:'네 없습니다 수고하세요~'
+2026-02-11 10:33:58 AGENT:'작게나마 고객님의 문의에 도움을 드릴 수 있어서 다행입니다. 고객님의 소중한 평가를 반영하여 좋은 서비스를 위해 노력할 수 있도록 서비스 만족 평가 부탁드립니다.'
+2026-02-11 10:34:00 AGENT:'추가 문의 사항이 없으실 경우 상담 종료하도록 하겠습니다. 궁금하신 사항이 있으실 경우 언제든지 문의 부탁드립니다. 지금까지 트립닷컴 상담사 trip.com-winnie이었습니다. 감사합니다. 한국어 사이트 (https://kr.trip.com)에서 1:1 온라인 채팅을 이용해주세요.'
+2026-02-11 10:34:02 AGENT:'트립닷컴을 이용해 주셔서 감사드리며, 추가 문의가 있는 경우 언제든지 연락 부탁드립니다.'"
+2026-02-11,700000986179154,-7985650926323601177,C,en,改签,"2026-02-11 03:42:33 CUSTOMER:'my pick up tome for vechile needs to be changed'
+2026-02-11 03:42:36 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+Pick-up and drop-off times must be within the store's business hours.
+You can also apply for free cancellation of your current order before2026-08-15 01:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 03:43:08 CUSTOMER:'talk to agent'
+2026-02-11 03:43:10 AGENT:'welcome to trip.com. my name is siya x, i am glad to be of your assistance today.'
+2026-02-11 03:43:32 CUSTOMER:'hi I want to inform the branch that my pick for vechile will be slightly later'
+2026-02-11 03:43:42 AGENT:'hi, there. thank you for your information. let me check if there are any ways i can assist.'
+2026-02-11 03:43:45 AGENT:'please confirm the booking you want to ask about. to view details, please ensure you are using the latest version of the trip.com app.'
+2026-02-11 03:43:50 CUSTOMER:'current consulting order please upgrade to the latest version for details.'
+2026-02-11 03:44:09 AGENT:'well received. thanks for your sharing.'
+2026-02-11 03:44:10 AGENT:'please stay online while i check this for you. it will take about 1 to 3 minutes. thank you for your patience.'
+2026-02-11 03:44:50 AGENT:'I see'
+2026-02-11 03:45:04 CUSTOMER:'ok'
+2026-02-11 03:45:14 AGENT:'thank you for your patience. i'll be right back with an update.'
+2026-02-11 03:45:54 CUSTOMER:'thanks'
+2026-02-11 03:46:04 AGENT:'you are most welcome. it's my pleasure to help you.'
+2026-02-11 03:48:41 CUSTOMER:'are you still there'
+2026-02-11 03:48:50 AGENT:'Yes'
+2026-02-11 03:48:57 CUSTOMER:'ok'
+2026-02-11 03:49:13 AGENT:'Thanks'
+2026-02-11 03:49:46 AGENT:'I've checked that we can't modify the time. I suggest you cancel this order and make a new reservation. What do you think?'
+2026-02-11 03:50:29 CUSTOMER:'the issue is if I cancel then the price goes up by about £40'
+2026-02-11 03:50:47 AGENT:'well noted'
+2026-02-11 03:50:50 AGENT:'got it, please hold on for just 1-3 minutes while i check the details.'
+2026-02-11 03:51:01 CUSTOMER:'what about if we check with the branch and see if they will accept'
+2026-02-11 03:51:21 AGENT:'i truly appreciate your patience while i worked on this.'
+2026-02-11 03:51:38 CUSTOMER:'no problem'
+2026-02-11 03:51:56 AGENT:'Thanks'
+2026-02-11 03:52:42 AGENT:'I'm very sorry that I tried to give phone call to supplier but couldn't get through.'
+2026-02-11 03:52:47 AGENT:'in order to assist you further, we will create a case and forward your request to the relevant team. they will update you on the progress within 24 hours.'
+2026-02-11 03:52:50 AGENT:'kas786786@hotmail.co.uk'
+2026-02-11 03:52:53 AGENT:'would it be convenient to contact you via this email address?'
+2026-02-11 03:53:15 AGENT:'Could you please tell me the specific time you would like to pick up the car?'
+2026-02-11 03:53:27 CUSTOMER:'ok that's great thanks so much for your help, I actually also work for Trip.com in the London office'
+2026-02-11 03:53:39 AGENT:'you are most welcome. it's my pleasure to help you.'
+2026-02-11 03:53:50 CUSTOMER:'yes it will be collected by 2am'
+2026-02-11 03:53:51 AGENT:'Thank you so much for letting me  know.'
+2026-02-11 03:53:59 AGENT:'understood'
+2026-02-11 03:54:40 CUSTOMER:'also this is my flight no. AK 897'
+2026-02-11 03:54:53 AGENT:'I see. You want to postpone the car pick-up time by about an hour.'
+2026-02-11 03:54:56 CUSTOMER:'thanks for your help'
+2026-02-11 03:54:57 AGENT:'Got it'
+2026-02-11 03:55:06 AGENT:'I will also let them know'
+2026-02-11 03:55:21 AGENT:'please be assured that once we receive a reply, we will email you as soon as possible.'
+2026-02-11 03:55:27 AGENT:'your understanding and patience will be highly appreciated.'
+2026-02-11 03:55:37 CUSTOMER:'yes about 1 hour'
+2026-02-11 03:55:44 AGENT:'got it'
+2026-02-11 03:55:57 AGENT:'thank you so much for waiting.'
+2026-02-11 03:56:08 AGENT:'please rest assured that i've marked your request as urgent and you are our top priority.'
+2026-02-11 03:56:10 AGENT:'Is there anything further I may assist you with at this time?'
+2026-02-11 03:56:21 CUSTOMER:'thank you thats all for now'
+2026-02-11 03:56:34 AGENT:'you're very welcome. i'm truly delighted to have been able to help!'
+2026-02-11 03:56:38 AGENT:'thanks so much for chatting with us. have a good day. take care!'"
+2026-02-11,200000989193770,-7985650926323601177,C,en,改签,"2026-02-11 13:57:24 CUSTOMER:'booking no.:1578934555765274,tomisato,mar 18, 2025'
+2026-02-11 13:57:24 ROBOT:'Hi, what question do you have related to this booking?'
+2026-02-11 13:57:40 CUSTOMER:'i want to add winter tyre '
+2026-02-11 13:57:43 ROBOT:'If you need to make changes,you can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the modification is unsuccessful,we recommend that you try contacting the store multiple times during business hours.
+Contact the Pick-up Branch: 81-7085195313
+Business hours: 08:00-20:00(Local Time)Contact the Drop-off Branch: 81-7085195313
+Business hours: 08:00-20:00(Local Time)
+ 
+If you are still unable to reach them, we suggest applying for a cancellation with penalties and rebooking before 2025-03-15 10:00:00 (Local Time). Thank you for your understanding.
+Cancel Booking'
+2026-02-11 13:58:03 CUSTOMER:'cancel booking'
+2026-02-11 13:58:05 ROBOT:'Please go to the booking details page to check the cancellation policy.If you make a payment on Trip.com and submit a cancellation request within the free cancellation period, you will receive a full refund. The refund will generally be returned to your original payment method within 7-30 days. Please be patient and wait for the refund to be processed.If you select ""Pay at pick-up"" when booking, there will be no refund on Trip.com even if you cancel the booking on Trip.com. For cancellation-related inquiries, please consult the rental branch.'"
+2026-02-11,800000985253745,-7160349369495170942,A,hk,改签,"2026-02-11 07:13:12 CUSTOMER:'請問司機車輛資料？'
+2026-02-11 07:13:19 ROBOT:'
+車輛品牌	Staria
+車輛類型	Staria
+您也可以檢查 這裡您預訂的車輛與圖片相似。'
+2026-02-11 07:13:31 CUSTOMER:'客服'
+2026-02-11 07:13:49 CUSTOMER:'不是說換車輛嗎？'
+2026-02-11 07:13:55 ROBOT:'對於目前的預訂 1658109435475369在此之前可免費取消 2026-02-10 06:30(當地時間)。如果您在此時間之後取消預訂，可能會收取費用。
+如果您想取消預訂，您可以前往 預訂詳情 取消預訂的頁面。
+如果您想要進行新的預訂，您可以前往該頁面 機場接送 選擇新服務。'"
+2026-02-11,400000985059482,-7160349369495170942,A,hk,改签,"2026-02-11 07:22:20 CUSTOMER:'如無法按時用車怎麼辦？'
+2026-02-11 07:22:21 ROBOT:'對於機場接送服務，司機將根據您預訂中的航班號碼實時監控您的航班狀態，以提供及時服務。如果您有其他需求，也可以致電司機的電話號碼 66 615143491。更多詳情，請前往該處 預訂詳情 檢查頁面。'
+2026-02-11 07:22:34 CUSTOMER:'司机迟到'
+2026-02-11 07:22:35 ROBOT:'不便之處，敬請見諒。請點擊下方按鈕聯繫我們的代理以獲得協助。 '
+2026-02-11 07:22:39 CUSTOMER:'轉人工'"
+2026-02-11,700000986748674,-7985650926323601177,C,en,改签,"2026-02-11 13:12:31 CUSTOMER:'hi…. when i make reservations of the car, i choose  kia carnaval, but right now they give me a big ford , like a big truck, i don’t know if i can handle that big car, is it anyway they can change back to kia for me please ? or a smaller car, thanks '
+2026-02-11 13:12:33 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+You can also apply for free cancellation of your current order before2026-02-12 15:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 13:12:45 CUSTOMER:'{""btype"":""1"",""ext"":{""channel"":""im_customer"",""scene"":""to-operation""},""height"":""540"",""originImageSize"":"""",""thumbUrl"":""https:\/\/dimg04.tripcdn.com\/images\/1mq3z224x98b7f5no3243_W_0_540.jpg"",""url"":""https:\/\/dimg04.tripcdn.com\/images\/1mq3z224x98b7f5no3243.jpg"",""width"":""249""}'
+2026-02-11 13:12:45 ROBOT:'Please describe your specific problem regarding the picture firstly, we will give priority to solving problems for you.'
+2026-02-11 13:12:59 CUSTOMER:'that car is too big for me '
+2026-02-11 13:13:03 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+You can also apply for free cancellation of your current order before2026-02-12 15:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'"
+2026-02-11,200000989863607,-7160349369495170942,A,hk,改签,"2026-02-11 21:04:32 CUSTOMER:'可以修改时间吗'
+2026-02-11 21:04:36 ROBOT:'根據您的 送車預訂 訂單政策，接送時間無法修改。
+但您可以嘗試取消預訂並重新預訂，請點擊 政策 有關詳細資訊。可在之前免費取消 2026-02-20 00:00:00 (當地時間)。在此時間之後取消將導致需支付預訂金額的100%。
+Tips:If you still have any other questions, please click the button below to contact the supplier.I hope this helps!
+聯繫供應商
+'"
+2026-02-11,700000986506894,-7160349369495170942,A,hk,改签,"2026-02-11 10:38:26 CUSTOMER:'司機的免費等候時間範圍'
+2026-02-11 10:38:27 ROBOT:'對於我們的每筆預訂，都有一段免費等待時間（具體時長取決於您選擇的產品）。免費等待時間從預定的接送時間開始計算。您可以在預訂頁面上選擇具體產品以查看確切的免費等待時間。https://dimg04.c-ctrip.com/images/0B72y12000grq75t956BE.jpg
+您可以在 機場接送 頁面。
+提示：司機將根據實際航班到達時間開始計算免費等候時間。
+如果您超過了預訂中規定的免費等候時間，司機可能會根據標準費率向您收取延長等候時間的額外費用。您可以在預訂過程中查看產品選擇頁面上的具體收費規則。
+如果您意識到無法在免費等候時間內抵達接送地點，您可以與司機友好協商費用事宜，並直接與司機結算任何額外等候費用。
+
+
+'
+2026-02-11 10:38:56 CUSTOMER:'車輛能裝多少行李？'
+2026-02-11 10:38:57 ROBOT:'常見的行李尺寸包括 20、24、26 和 28 英寸。每輛車的具體行李容量和尺寸參考可在預訂頁面上找到。在容量計算方面，單個 24 英寸行李箱計為 1 項，較大的行李則計為 2 項。有關件數限制、重量和尺寸等詳細信息，請參閱下方圖像中的說明。
+
+https://dimg04.c-ctrip.com/images/0B74112000ecf39pzACD5.png
+您可以在 機場接送 頁面。提示:如需詳細資訊，請在下單後參閱您的訂單詳細頁面上的相關政策。'
+2026-02-11 10:39:06 CUSTOMER:'應該提前多久預訂？'
+2026-02-11 10:39:07 ROBOT:'我們建議您在預訂機票或規劃行程之前預訂機場接送服務。
+通常建議至少提前預訂機場接送服務 48 小時 提前安排很重要，但也要考慮航班狀態和行程安排。下訂單後，供應商將根據您的預定接送時間為您指派一名司機。
+提示:所有機場接送時間均為當地時間，因此在預訂時請考慮此因素。'
+2026-02-11 10:39:16 CUSTOMER:'更改接送機服務時間'
+2026-02-11 10:39:16 ROBOT:'您目前尚未選擇任何預訂。
+如果您已進行預訂，請前往 所有預訂 選擇預訂和查詢的頁面。
+您可以在APP內的訂單詳細頁面修改您的聯繫信息、接送地址和乘車時間。請注意，修改地址或乘車時間可能會導致價格變更，您可以按照屏幕上的指示進行操作。
+如果訂單顯示不允許修改，您可以在最晚取消時間前提交免費取消申請並嘗試重新預訂。如果取消成功，退款通常會在7-14個工作日內退回到您的原始支付賬戶。
+'"
+2026-02-11,300000987534565,2862217204651706952,C,kr,改签,"2026-02-11 21:12:48 CUSTOMER:'차량인수 시간을 변경하고 싶어요'
+2026-02-11 21:12:57 ROBOT:'아래 버튼을 눌러 예약 변경을 시도하실 수 있습니다. 새로운 예약에 대한 결제가 완료되면 기존 예약은 자동으로 취소됩니다. 
+예약 변경하기
+
+Tips:
+지점 및 차량 종류를 검색·확인하신 후, 운전자 정보를 다시 입력하시고 새로운 예약을 진행해 주시기 바랍니다. 새로운 예약의 요금은 페이지에 표시된 정보에 따라 적용됩니다. 자세한 정책은  예약 상세 페이지에서 확인해 주세요.
+인수 및 반납 시간은 지점 영업시간 내에 이루어져야 합니다.'"
+2026-02-11,100000987231308,-7985650926323601177,C,en,改签,"2026-02-11 03:02:03 CUSTOMER:'booking no. :1378832040800657,paris,may 23, 2026'
+2026-02-11 03:02:03 ROBOT:'Hi, what question do you have related to this booking?'
+2026-02-11 03:07:10 CUSTOMER:'my flight to orly paris was delayed to 23/5/26  landing in orly at 20:15.the budjet office will be close at 21:00.so it means that i couldn't get in time'
+2026-02-11 03:07:14 ROBOT:'Your booking 1378832040800657 has been confirmed. If you need to make changes, please refer to the booking details page to view the policies.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-05-23 11:30:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'
+2026-02-11 03:08:09 CUSTOMER:'qwestion'
+2026-02-11 03:08:12 ROBOT:'Your booking 1378832040800657 has been confirmed. If you need to make changes, please refer to the booking details page to view the policies.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-05-23 11:30:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'"
+2026-02-11,500000986467530,-7985650926323601177,C,en,改签,"2026-02-11 07:45:40 CUSTOMER:'spelling mistakes on the name'
+2026-02-11 07:45:44 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+You can also apply for free cancellation of your current order before2026-02-17 20:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 07:47:14 CUSTOMER:'i don’t want to cancel booking but just correct the spelling of the name'
+2026-02-11 07:47:16 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+You can also apply for free cancellation of your current order before2026-02-17 20:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 07:49:14 CUSTOMER:'speak to agent'
+2026-02-11 07:49:16 AGENT:'welcome to trip.com. my name is trip.com_michael.dave, i am glad to be of your assistance today.'
+2026-02-11 07:49:42 AGENT:'hello'
+2026-02-11 07:50:32 AGENT:'may i confirm the name of the driver registered with this booking and its pick up location please ?'
+2026-02-11 07:50:35 AGENT:'just to make sure that i have the correct booking information'
+2026-02-11 07:50:38 CUSTOMER:'Hi there, I have made the booking for car hire and with the trip.com car cover, but there’s a small spelling mistake on the driver name, can you modify on your side? I don’t wanna cancel booking and rebook again because the refund won’t receive until 7-3 days'
+2026-02-11 07:50:51 CUSTOMER:'Ka Lung Taang'
+2026-02-11 07:50:58 CUSTOMER:'Ka Lung Tsang'
+2026-02-11 07:51:05 CUSTOMER:'But should be Ka Lun Tsang'
+2026-02-11 07:51:05 AGENT:'i understand'
+2026-02-11 07:51:11 AGENT:'according to the agreement between trip.com and our partners, bookings cannot be modified once they are confirmed. if your booking is still within the free cancellation period, you may cancel and make a new reservation. we regret any inconvenience this may cause and appreciate your understanding.'
+2026-02-11 07:51:55 AGENT:'however maybe I could notify the branch about this issue and see if they can make an exception for you'
+2026-02-11 07:52:29 AGENT:'I will endorse your concern to our relevant team to communicate this to the car rental branch and see what will be the outcome'
+2026-02-11 07:52:33 AGENT:'we will reach out back to you within the next 24 hours how would you like us to contact you ? via phone call or email ?'
+2026-02-11 07:52:41 CUSTOMER:'I have contacted the branch already they said they are ok, I’m just unsure with the cover (car insurance) just in case any thing happens '
+2026-02-11 07:53:25 AGENT:'Well, if there is no issue with the branch I don't think there would be any issue at all'
+2026-02-11 07:53:37 CUSTOMER:'The car rental protection bought with trip'
+2026-02-11 07:53:40 AGENT:'If the branch agrees then you should not worry'
+2026-02-11 07:53:59 CUSTOMER:'Ok thank you for that'
+2026-02-11 07:54:08 AGENT:'you're welcome'
+2026-02-11 07:54:11 AGENT:'aside from this'
+2026-02-11 07:54:19 AGENT:'is there anything else i can assist ?'
+2026-02-11 07:54:26 AGENT:'if there is nothing else i will be closing this chat now and thank you again for contacting trip.com'
+2026-02-11 07:54:28 CUSTOMER:'All good thank you'
+2026-02-11 07:54:39 AGENT:'you're welcome'
+2026-02-11 07:54:45 AGENT:'would it be alright to end this chat session if there is nothing else that we can assist with? (please understand, if the conversation is not active anymore, the chat will be closed by the system automatically.)'"
+2026-02-11,600000988108153,-7985650926323601177,C,en,改签,"2026-02-11 16:05:55 CUSTOMER:'i want to change the pick up time to next morning 9 am'
+2026-02-11 16:05:58 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on theBooking details page.
+Pick-up and drop-off times must be within the store's business hours.
+You can also apply for free cancellation of your current order before2026-04-06 22:30:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'"
+2026-02-11,800000986281954,-7985650926323601177,C,en,改签,"2026-02-11 18:33:51 CUSTOMER:'chat'
+2026-02-11 18:33:54 ROBOT:'If you want to contact the car rental branch, you can check the contact information on the Booking details page.
+Contact the Pick-up Branch: 1-9726341969
+Contact the Drop-off Branch: [""1-9726341969""]
+https://dimg04.c-ctrip.com/images/0B75u12000fn5h6478C81.jpg'
+2026-02-11 18:34:17 CUSTOMER:'booking no.：1578944533368303，euless，mar 8, 2026'
+2026-02-11 18:34:17 ROBOT:'Hi, what question do you have related to this booking?'
+2026-02-11 18:34:29 CUSTOMER:'i want to delay the vehicle drop-off time.'
+2026-02-11 18:34:30 ROBOT:'Your booking 1578944533368303 has been confirmed.  If you need to make changes,you can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-03-06 10:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'"
+2026-02-11,700000987168303,2862217204651706952,C,kr,改签,"2026-02-11 17:20:59 CUSTOMER:'추가 운전자는 어디에 등록할 수 있나요'
+2026-02-11 17:21:08 ROBOT:'아래 버튼을 눌러 예약 변경을 시도하실 수 있습니다. 새로운 예약에 대한 결제가 완료되면 기존 예약은 자동으로 취소됩니다. 
+예약 변경하기
+
+팁:
+지점 및 차량 종류를 검색·확인하신 후, 운전자 정보를 다시 입력하시고 새로운 예약을 진행해 주시기 바랍니다. 새로운 예약의 요금은 페이지에 표시된 정보에 따라 적용됩니다. 자세한 정책은 예약 상세 페이지에서 확인해 주세요.
+인수 및 반납 시간은 지점 영업시간 내에 이루어져야 합니다.
+'
+2026-02-11 17:21:32 CUSTOMER:'추가 운전자를 등록하고 싶어요'
+2026-02-11 17:21:36 ROBOT:'아래 버튼을 눌러 예약 변경을 시도하실 수 있습니다. 새로운 예약에 대한 결제가 완료되면 기존 예약은 자동으로 취소됩니다. 
+예약 변경하기
+
+팁:
+지점 및 차량 종류를 검색·확인하신 후, 운전자 정보를 다시 입력하시고 새로운 예약을 진행해 주시기 바랍니다. 새로운 예약의 요금은 페이지에 표시된 정보에 따라 적용됩니다. 자세한 정책은 예약 상세 페이지에서 확인해 주세요.
+인수 및 반납 시간은 지점 영업시간 내에 이루어져야 합니다.
+'
+2026-02-11 17:24:06 CUSTOMER:'예약 변경은 안하고 추가 운전자만 등록하려고 합니다'
+2026-02-11 17:24:10 ROBOT:'아래 버튼을 눌러 예약 변경을 시도하실 수 있습니다. 새로운 예약에 대한 결제가 완료되면 기존 예약은 자동으로 취소됩니다. 
+예약 변경하기
+
+팁:
+지점 및 차량 종류를 검색·확인하신 후, 운전자 정보를 다시 입력하시고 새로운 예약을 진행해 주시기 바랍니다. 새로운 예약의 요금은 페이지에 표시된 정보에 따라 적용됩니다. 자세한 정책은 예약 상세 페이지에서 확인해 주세요.
+인수 및 반납 시간은 지점 영업시간 내에 이루어져야 합니다.
+'
+2026-02-11 17:24:53 CUSTOMER:'상담원 연결'
+2026-02-11 17:24:55 AGENT:'고객님의 여정과 함께하는 트립닷컴 렌터카 고객만족부서 상담사 trip.com_justin kim입니다. 무엇을 도와드릴까요?'
+2026-02-11 17:25:23 CUSTOMER:'렌트카 추가 인원만 등록하고자 합니다'
+2026-02-11 17:25:28 AGENT:'말씀 감사합니다. 본인이 아닌 경우 상담이 제한 될수 있다보니 소중한 개인정보 보호를 위하여 연락주신 고객님 성함 제공 부탁드립니다.'
+2026-02-11 17:25:40 CUSTOMER:'전만규 입니다'
+2026-02-11 17:25:47 AGENT:'추가 운전자 등록을 원하신다는 말씀이실까요?'
+2026-02-11 17:26:12 CUSTOMER:'네. 제 이름만 등록했는데 아내 이름도 등록하려고 합니다'
+2026-02-11 17:26:22 AGENT:'네 고객님'
+2026-02-11 17:26:33 AGENT:'잠시만 기다려 주세요'
+2026-02-11 17:27:25 AGENT:'오래 기다려 주셔서 감사합니다.본 예약건의 경우 추가 운전자 등록시 지점에서 진행을 해주셔야 하시며 마찬가지로 운전자 면허증과 여권 신용카드를 지참하셔서 등록을 해주셔야 하십니다'
+2026-02-11 17:28:01 CUSTOMER:'그럼 현재 애플리케이션 에서는 등록이 안 되나보네요'
+2026-02-11 17:28:07 AGENT:'네 고객님'
+2026-02-11 17:28:27 AGENT:'굉장히 죄송하지만 한분만 등록이 가능하며 추가 운전자분의 경우 지점에서 진행해 주셔야 하십니다'
+2026-02-11 17:28:33 CUSTOMER:'그럼 일본 가고시마 현장에서 등록이 된다는 말슴이시죠?'
+2026-02-11 17:28:48 AGENT:'네 고객님'
+2026-02-11 17:29:18 CUSTOMER:'현재 저에게 신용카드가 없는데 아내에게는 있어서 그렇습니다'
+2026-02-11 17:29:34 AGENT:'네 고객님'
+2026-02-11 17:30:07 CUSTOMER:'추가로 현장에서 등록하면 신용카드와 국제면허증이 있으면 가능한가요'
+2026-02-11 17:30:29 AGENT:'일반적인 경우 신용카드,국제 운전 면허증과 여권이 필요하십니다'
+2026-02-11 17:30:46 CUSTOMER:'알겠습니다.  정보 감사합니다'
+2026-02-11 17:30:58 AGENT:'트립닷컴을 이용해 주셔서 감사드리며, 추가 문의가 있는 경우 언제든지 연락 부탁드립니다.'"
+2026-02-11,400000985150748,-7985650926323601177,C,en,改签,"2026-02-11 09:00:30 CUSTOMER:'i want to delay the vehicle drop-off time.'
+2026-02-11 09:00:31 ROBOT:'Your booking 1227100812520256 has been confirmed.  If you need to make changes,you can check whether there is a""Modify order""button on the order details page, and try to change the order. After you complete the payment for the new booking,the original booking will be automatically cancelled. The price for the new booking will be based on the information displayed on the page.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-02-11 10:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'
+2026-02-11 09:03:16 CUSTOMER:'hi my flight was rescheduled to 8:00 pm on february 11, i’d like to ask if i change the pick up time the rental car and the drop off time will at 9:30pm on feb 14?'
+2026-02-11 09:03:18 ROBOT:'Your booking 1227100812520256 has been confirmed. If you need to make changes, please refer to the booking details page to view the policies.
+If the modification is unsuccessful, you may consider clicking the button below to cancel and rebook. The booking can be canceled for free before before 2026-02-11 10:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 working days.
+Cancel Booking'"
+2026-02-11,600000988665143,-7160349369495170942,A,hk,改签,"2026-02-11 22:34:35 CUSTOMER:'更改接送機服務時間'
+2026-02-11 22:34:37 ROBOT:'您可以點擊 這裡 調整您的行程。 請注意，重新選擇您的行程可能會導致價格變動。
+如果沒有任何選項符合您的要求，您可以點擊 取消預訂 然後根據需要再次選擇。對於當前的預訂，最新的免費取消時間是 
+2026-02-11 16:00:00 (接送地點時間)。
+取消可能會產生某些費用。
+提示:If you still have any other questions, please click the button below to contact the supplier.Or we recommend contacting the driver to negotiate : 90-5510030713。我希望這對您有所幫助！
+聯繫供應商
+
+'
+2026-02-11 22:35:29 CUSTOMER:'請幫我的時間改為上午10點送機'
+2026-02-11 22:35:31 ROBOT:'您可以點擊 這裡 調整您的行程。 請注意，重新選擇您的行程可能會導致價格變動。
+如果沒有任何選項符合您的要求，您可以點擊 取消預訂 然後根據需要再次選擇。對於當前的預訂，最新的免費取消時間是 
+2026-02-11 16:00:00 (接送地點時間)。
+取消可能會產生某些費用。
+提示:If you still have any other questions, please click the button below to contact the supplier.Or we recommend contacting the driver to negotiate : 90-5510030713。我希望這對您有所幫助！
+聯繫供應商
+
+'"
+2026-02-11,700000987717012,-7985650926323601177,C,en,改签,"2026-02-11 23:54:30 CUSTOMER:'i want to delay the vehicle drop-off time.'
+2026-02-11 23:54:31 ROBOT:'To resolve the issue of modifying your booking, please enter your 11-digit or 16-digit booking number to check the corresponding reservation. Generally, once a booking is confirmed, it cannot be modified. We recommend that you either cancel the booking or negotiate with the store.'"
+2026-02-11,800000986297683,-7985650926323601177,C,en,改签,"2026-02-11 18:45:22 CUSTOMER:'add driver'
+2026-02-11 18:45:26 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+You can also apply for free cancellation of your current order before2026-03-06 17:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 18:45:42 CUSTOMER:'add driver without rebooking'
+2026-02-11 18:45:45 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+You can also apply for free cancellation of your current order before2026-03-06 17:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 18:46:11 CUSTOMER:'add driver without modifying booking'
+2026-02-11 18:46:14 ROBOT:'You can try to click the button below to modify your booking. After you complete the payment for the new booking,the original booking will be automatically cancelled.
+Modify Booking
+
+Tips:
+After searching and confirming the branch and vehicle type, you can re-fill the driver information and place a new order.
+The price for the new reservation will be based on the information displayed on the page.Please kindly check detailed policy on the Booking details page.
+You can also apply for free cancellation of your current order before2026-03-06 17:00:00 (Local Time). After a successful cancellation, the refund is expected to be processed within 7-30 business days.'
+2026-02-11 18:48:40 CUSTOMER:'transfer to an agent'
+2026-02-11 18:48:42 AGENT:'welcome to trip.com. my name is trip.com_liz, i am glad to be of your assistance today.'
+2026-02-11 18:48:51 AGENT:'hi, how can i help you?'
+2026-02-11 18:49:06 CUSTOMER:'hi, please add driver'
+2026-02-11 18:49:18 AGENT:'please confirm the booking you want to ask about. to view details, please ensure you are using the latest version of the trip.com app.'
+2026-02-11 18:49:26 CUSTOMER:'current consulting order please upgrade to the latest version for details.'
+2026-02-11 18:49:29 AGENT:'got it'
+2026-02-11 18:50:09 AGENT:'Hi there, for this booking, it can only have one main driver, and it's can't be changed'
+2026-02-11 18:50:41 CUSTOMER:'i managed to make a booking with additional driver at no charge yesterday'
+2026-02-11 18:50:59 AGENT:'okay'
+2026-02-11 18:51:09 AGENT:'could you send me the order id please'
+2026-02-11 18:51:24 CUSTOMER:'please let me choose'
+2026-02-11 18:51:36 AGENT:'I see'
+2026-02-11 18:52:17 CUSTOMER:'the pickup time for the other booking is at 10am'
+2026-02-11 18:52:33 AGENT:'got it'
+2026-02-11 18:52:37 AGENT:'please allow me at least 2-3 minutes to check this further'
+2026-02-11 18:53:43 CUSTOMER:'ok'
+2026-02-11 18:53:47 CUSTOMER:'booking no.：1578944533142533，euless，mar 8, 2026'
+2026-02-11 18:53:48 AGENT:'thank you'
+2026-02-11 18:54:04 CUSTOMER:'i npticed this was cancelled, may i know why please?'
+2026-02-11 18:54:13 AGENT:'please confirm the booking you want to ask about. to view details, please ensure you are using the latest version of the trip.com app.'
+2026-02-11 18:54:55 CUSTOMER:'please show me more details'
+2026-02-11 18:55:05 AGENT:'okay'
+2026-02-11 18:55:14 AGENT:'i am still checking for you. please kindly bear with me. thank you for your patience.'
+2026-02-11 18:55:36 CUSTOMER:'ok'
+2026-02-11 18:55:48 AGENT:'thank you'
+2026-02-11 18:56:34 AGENT:'1578944533368303 this booking is for 2026-03-08 10:00:00'
+2026-02-11 18:56:51 AGENT:'Whether a second driver can be added is determined by the supplier. If you cannot add one in your order page, it means adding a second driver is not supported.'
+2026-02-11 18:57:18 CUSTOMER:'ok, please check why the booking is cancelled'
+2026-02-11 18:57:25 AGENT:'sure'
+2026-02-11 18:57:32 CUSTOMER:'the one that costs $607'
+2026-02-11 18:57:51 CUSTOMER:'i did not trigger a cancellation'
+2026-02-11 18:57:58 AGENT:'Okay'
+2026-02-11 18:58:22 AGENT:'1578944533371195 The guest cancelled the order voluntarily, citing ""Itinerary change"".'
+2026-02-11 18:58:34 CUSTOMER:'no i did not'
+2026-02-11 18:58:43 AGENT:'it's refunded successfully'
+2026-02-11 18:58:52 AGENT:'589.93 SGD'
+2026-02-11 18:58:59 CUSTOMER:'i called to ask if they can hold the reservation if we are late'
+2026-02-11 18:59:14 AGENT:'it's this booking - 1578944533368303'
+2026-02-11 18:59:55 CUSTOMER:'not the $589'
+2026-02-11 19:00:05 AGENT:'yes'
+2026-02-11 19:00:56 CUSTOMER:'ok i see its active'
+2026-02-11 19:01:05 CUSTOMER:'thank you , that will be all'"
+2026-02-11,300000987061925,-7160349369495170942,A,hk,改签,"2026-02-11 15:46:20 CUSTOMER:'系統有問題 我的班機實際上明天才會到'
+2026-02-11 15:46:22 ROBOT:'為更有效地解決您的問題，請根據您的實際情況選擇一個選項。'"

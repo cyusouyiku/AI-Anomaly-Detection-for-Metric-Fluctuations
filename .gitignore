@@ -1,0 +1,13 @@
+# 环境与密钥
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.matplotlib_cache/
+
+# 数据缓存（embedding 模型会重新下载）
+data/.cache/

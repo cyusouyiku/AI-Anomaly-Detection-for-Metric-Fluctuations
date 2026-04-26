@@ -74,7 +74,7 @@ ai指标/
 
 ## Embedding 模型
 
-默认使用 `paraphrase-multilingual-MiniLM-L12-v2`，支持中文、英文、日文、韩文等多语种。
+默认使用 `paraphrase-multilingual-MiniLM-L12-v2`，支持中文、英文、日文、韩文等不同语言线多语种。
 
 ## 聚类算法说明（HDBSCAN vs K-Means）
 
